@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AptaScope — Aptamer Sequence Analyzer</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%23111418'/%3E%3Cpolyline points='9,6 23,13 9,20 23,27' stroke='%23E0576B' stroke-width='2.6' stroke-linecap='square' stroke-linejoin='miter' fill='none'/%3E%3Cpolyline points='23,6 9,13 23,20 9,27' stroke='%23F6F7F9' stroke-width='2.6' stroke-linecap='square' stroke-linejoin='miter' fill='none'/%3E%3C/svg%3E"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Color and type tokens sourced from Palantir's open-source Blueprint
+         toolkit (palantir/blueprint, Apache 2.0) — see .claude/skills/palantir-design -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              bg: "#111418",
+              surface: "#1C2127",
+              surface2: "#252A31",
+              border: "#2F343C",
+              textprimary: "#F6F7F9",
+              textsecondary: "#8F99A8",
+              accent: "#E0576B",
+              success: "#238551",
+              warning: "#C87619",
+              danger: "#CD4246",
+              dna: "#58A6FF",
+              rna: "#F0883E",
+            },
+            fontFamily: {
+              sans: ["Inter", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "system-ui", "sans-serif"],
+              mono: ["JetBrains Mono", "ui-monospace", "SFMono-Regular", "monospace"],
+            },
+            borderRadius: {
+              none: "0px",
+              sm: "2px",
+              DEFAULT: "2px",
+              md: "2px",
+              lg: "2px",
+              xl: "2px",
+              full: "2px",
+            },
+          },
+        },
+      };
+    </script>
+
+    <style>
+      body {
+        background-color: #111418;
+        color: #f6f7f9;
+      }
+      ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #111418;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #2f343c;
+        border-radius: 2px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #404854;
+      }
+    </style>
+  </head>
+  <body class="font-sans text-[14px]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

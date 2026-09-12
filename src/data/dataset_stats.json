@@ -1,0 +1,15 @@
+{
+  "total_records": 1757,
+  "records_with_kd": 1356,
+  "unique_targets": 655,
+  "dna_count": 897,
+  "rna_count": 860,
+  "kd_range": [
+    0.001,
+    208000000.0
+  ],
+  "median_length": 79,
+  "median_gc": 0.5333,
+  "generated_at": "2026-09-12T21:02:47.656414+00:00",
+  "vienna_rna_available": true
+}
