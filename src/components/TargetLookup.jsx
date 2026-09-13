@@ -10,8 +10,11 @@ import {
 } from "recharts";
 import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import PageHeading from "./PageHeading.jsx";
+import StructureViewer from "./StructureViewer.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 import { quantile } from "../utils/stats.js";
+
+const PAGE_SIZE = 50;
 
 function TooltipBox({ active, payload }) {
   if (!active || !payload || !payload.length) return null;
@@ -34,6 +37,7 @@ export default function TargetLookup({ data }) {
   const [query, setQuery] = useState("");
   const [sortKey, setSortKey] = useState("kd_nM");
   const [sortDir, setSortDir] = useState("asc");
+  const [page, setPage] = useState(1);
 
   const filteredTargets = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -56,12 +60,21 @@ export default function TargetLookup({ data }) {
     });
   }, [records, sortKey, sortDir]);
 
+  const totalPages = Math.max(1, Math.ceil(sortedRecords.length / PAGE_SIZE));
+  const pageRecords = sortedRecords.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+
   function handleSort(key) {
     if (sortKey === key) setSortDir(sortDir === "asc" ? "desc" : "asc");
     else {
       setSortKey(key);
       setSortDir("asc");
     }
+    setPage(1);
+  }
+
+  function handleSelectTarget(t) {
+    setSelected(t);
+    setPage(1);
   }
 
   const profile = useMemo(() => {
@@ -97,6 +110,13 @@ export default function TargetLookup({ data }) {
     };
   }, [records]);
 
+  const topBinders = useMemo(() => {
+    return [...records]
+      .filter((r) => r.kd_nM !== null && r.mfe_structure)
+      .sort((a, b) => a.kd_nM - b.kd_nM)
+      .slice(0, 3);
+  }, [records]);
+
   return (
     <div className="space-y-4">
       <PageHeading>Target Lookup</PageHeading>
@@ -112,7 +132,7 @@ export default function TargetLookup({ data }) {
         />
         <select
           value={selected}
-          onChange={(e) => setSelected(e.target.value)}
+          onChange={(e) => handleSelectTarget(e.target.value)}
           size={Math.min(8, Math.max(4, filteredTargets.length))}
           className="w-full bg-bg border border-border rounded px-3 py-1.5 text-sm focus:outline-none focus:border-accent"
         >
@@ -169,6 +189,30 @@ export default function TargetLookup({ data }) {
             </div>
           </div>
 
+          {topBinders.length > 0 && (
+            <div className="bg-surface border border-border rounded-md p-4">
+              <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">
+                Top Binder Structures
+              </h2>
+              <div
+                className={`grid grid-cols-1 gap-4 ${
+                  { 1: "md:grid-cols-1", 2: "md:grid-cols-2", 3: "md:grid-cols-3" }[topBinders.length]
+                }`}
+              >
+                {topBinders.map((r) => (
+                  <div key={r.id}>
+                    <StructureViewer
+                      sequence={r.sequence}
+                      dotBracket={r.mfe_structure}
+                      label={`Kd = ${formatKd(r.kd_nM)} · ${r.length} nt`}
+                      height={220}
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
             <div className="bg-surface border border-border rounded-md p-4">
               <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">GC Content vs. Kd</h2>
@@ -199,7 +243,9 @@ export default function TargetLookup({ data }) {
             </div>
 
             <div className="bg-surface border border-border rounded-md p-4 overflow-x-auto">
-              <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">All Aptamers for {selected}</h2>
+              <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">
+                All Aptamers for {selected} ({records.length.toLocaleString()})
+              </h2>
               <table className="w-full text-sm">
                 <thead>
                   <tr className="text-left text-textsecondary border-b border-border uppercase tracking-wider text-[11px]">
@@ -224,7 +270,7 @@ export default function TargetLookup({ data }) {
                   </tr>
                 </thead>
                 <tbody>
-                  {sortedRecords.map((r) => (
+                  {pageRecords.map((r) => (
                     <tr key={r.id} className="border-b border-border/60">
                       <td className="px-2 py-1.5">
                         <div className="flex items-center gap-2">
@@ -238,11 +284,32 @@ export default function TargetLookup({ data }) {
                       <td className={`px-2 py-1.5 font-mono ${kdColorClass(r.kd_nM)}`}>
                         {formatKd(r.kd_nM)}
                       </td>
-                      <td className="px-2 py-1.5">{r.length}</td>
+                      <td className="px-2 py-1.5 font-mono">{r.length}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
+              {totalPages > 1 && (
+                <div className="flex items-center justify-center gap-3 text-sm mt-3 pt-3 border-t border-border">
+                  <button
+                    disabled={page <= 1}
+                    onClick={() => setPage((p) => Math.max(1, p - 1))}
+                    className="px-3 py-1 border border-border disabled:opacity-40 hover:border-accent"
+                  >
+                    Prev
+                  </button>
+                  <span className="text-textsecondary font-mono">
+                    Page {page} of {totalPages}
+                  </span>
+                  <button
+                    disabled={page >= totalPages}
+                    onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
+                    className="px-3 py-1 border border-border disabled:opacity-40 hover:border-accent"
+                  >
+                    Next
+                  </button>
+                </div>
+              )}
             </div>
           </div>
         </>

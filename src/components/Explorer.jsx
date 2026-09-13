@@ -4,13 +4,7 @@ import SequenceDetail from "./SequenceDetail.jsx";
 import PageHeading from "./PageHeading.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 
-const TARGET_TYPE_LABELS = {
-  all: "All",
-  protein: "Protein",
-  small_molecule: "Small Molecule",
-  cell: "Cell",
-  other: "Other",
-};
+const TARGET_TYPE_OPTIONS = ["All", "Protein", "Small Molecule", "Cell", "Nucleic Acid", "Microorganism", "Other"];
 
 const KD_LOG_MIN = -2; // 0.01 nM
 const KD_LOG_MAX = 5; // 100,000 nM
@@ -26,7 +20,7 @@ function truncateSeq(seq, n = 40) {
 export default function Explorer({ data }) {
   const [search, setSearch] = useState("");
   const [typeFilter, setTypeFilter] = useState("All");
-  const [targetTypeFilter, setTargetTypeFilter] = useState("all");
+  const [targetTypeFilter, setTargetTypeFilter] = useState("All");
   const [kdLogRange, setKdLogRange] = useState([KD_LOG_MIN, KD_LOG_MAX]);
   const [lengthRange, setLengthRange] = useState([LENGTH_MIN, LENGTH_MAX]);
   const [sortKey, setSortKey] = useState("kd_nM");
@@ -40,8 +34,8 @@ export default function Explorer({ data }) {
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     let rows = data.filter((r) => {
-      if (typeFilter !== "All" && r.type !== typeFilter) return false;
-      if (targetTypeFilter !== "all" && r.target_type !== targetTypeFilter) return false;
+      if (typeFilter !== "All" && r.aptamer_type !== typeFilter) return false;
+      if (targetTypeFilter !== "All" && r.target_type !== targetTypeFilter) return false;
       if (r.length < lengthRange[0] || r.length > lengthRange[1]) return false;
       if (r.kd_nM !== null && (r.kd_nM < kdMin || r.kd_nM > kdMax)) return false;
       if (q) {
@@ -87,7 +81,7 @@ export default function Explorer({ data }) {
 
   const columns = [
     { key: "target_name", label: "Target" },
-    { key: "type", label: "Type" },
+    { key: "aptamer_type", label: "Type" },
     { key: "sequence", label: "Sequence", sortable: false },
     { key: "length", label: "Length" },
     { key: "kd_nM", label: "Kd (nM)" },
@@ -136,8 +130,8 @@ export default function Explorer({ data }) {
             onChange={(e) => resetPage(setTargetTypeFilter)(e.target.value)}
             className="w-full bg-bg border border-border rounded px-3 py-1.5 text-sm focus:outline-none focus:border-accent"
           >
-            {Object.entries(TARGET_TYPE_LABELS).map(([val, label]) => (
-              <option key={val} value={val}>
+            {TARGET_TYPE_OPTIONS.map((label) => (
+              <option key={label} value={label}>
                 {label}
               </option>
             ))}
@@ -248,12 +242,12 @@ export default function Explorer({ data }) {
                   <td className="px-3 py-2">
                     <span
                       className={`text-xs px-2 py-0.5 rounded-full border ${
-                        r.type === "DNA"
+                        r.aptamer_type === "DNA"
                           ? "border-dna text-dna"
                           : "border-rna text-rna"
                       }`}
                     >
-                      {r.type}
+                      {r.aptamer_type}
                     </span>
                   </td>
                   <td className="px-3 py-2">

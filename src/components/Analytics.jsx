@@ -68,7 +68,7 @@ export default function Analytics({ data }) {
     const rna = [];
     for (const r of withKd) {
       const point = { x: r.gc_content, y: -Math.log10(r.kd_nM), target: r.target_name };
-      (r.type === "DNA" ? dna : rna).push(point);
+      (r.aptamer_type === "DNA" ? dna : rna).push(point);
     }
     const trend = movingAverage([...dna, ...rna], 25);
     return { dna, rna, trend };
@@ -135,16 +135,15 @@ export default function Analytics({ data }) {
     return COLORS.danger;
   }
 
-  // Chart 5: nucleotide composition by target type (protein / small_molecule / cell)
+  // Chart 5: nucleotide composition by target type (Protein / Small Molecule / Cell)
   const compositionByType = useMemo(() => {
-    const groups = ["protein", "small_molecule", "cell"];
-    const labels = { protein: "Protein", small_molecule: "Small Molecule", cell: "Cell" };
+    const groups = ["Protein", "Small Molecule", "Cell"];
     return groups.map((g) => {
       const recs = data.filter((r) => r.target_type === g);
       const avg = (key) =>
         recs.length ? recs.reduce((s, r) => s + r[key], 0) / recs.length : 0;
       return {
-        name: labels[g],
+        name: g,
         A: avg("a_freq"),
         T: avg("t_freq"),
         G: avg("g_freq"),

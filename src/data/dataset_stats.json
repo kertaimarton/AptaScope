@@ -1,15 +1,26 @@
 {
-  "total_records": 1757,
-  "records_with_kd": 1356,
-  "unique_targets": 655,
-  "dna_count": 897,
-  "rna_count": 860,
+  "total_records": 13306,
+  "records_with_kd": 5801,
+  "records_with_structure": 13306,
+  "unique_targets": 2192,
+  "dna_count": 11134,
+  "rna_count": 2172,
   "kd_range": [
     0.001,
-    208000000.0
+    100000000.0
   ],
-  "median_length": 79,
-  "median_gc": 0.5333,
-  "generated_at": "2026-09-12T21:02:47.656414+00:00",
+  "median_length": 41.0,
+  "median_gc": 0.5405,
+  "source_counts": {
+    "aptanexus": 11944,
+    "both": 152,
+    "aptadb": 1210
+  },
+  "quality_tier_counts": {
+    "P": 1344,
+    "B": 818,
+    "C": 6637,
+    "A": 3289
+  },
   "vienna_rna_available": true
 }

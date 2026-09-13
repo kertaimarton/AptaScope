@@ -1,4 +1,5 @@
 import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
+import StructureViewer from "./StructureViewer.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 
 const FEATURE_ROWS = [
@@ -52,6 +53,17 @@ export default function SequenceDetail({ record }) {
         >
           View publication (DOI: {record.doi}) ↗
         </a>
+      )}
+
+      {record.mfe_structure && (
+        <div className="border-t border-border pt-4">
+          <StructureViewer
+            sequence={record.sequence}
+            dotBracket={record.mfe_structure}
+            label="Secondary Structure"
+            height={260}
+          />
+        </div>
       )}
     </div>
   );

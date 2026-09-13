@@ -4,7 +4,7 @@ import Explorer from "./components/Explorer.jsx";
 import Analytics from "./components/Analytics.jsx";
 import Analyzer from "./components/Analyzer.jsx";
 import TargetLookup from "./components/TargetLookup.jsx";
-import aptamerData from "./data/aptamer_data.json";
+import aptamerData from "./data/aptascope_merged.json";
 import datasetStats from "./data/dataset_stats.json";
 
 const TABS = ["Explorer", "Analytics", "Analyzer", "Targets"];

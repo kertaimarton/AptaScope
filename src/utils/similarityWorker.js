@@ -10,6 +10,7 @@ self.onmessage = (e) => {
     sequence: r.record.sequence,
     kd_nM: r.record.kd_nM,
     source: r.record.source,
+    mfe_structure: r.record.mfe_structure,
     similarity: r.similarity,
     distance: r.distance,
   }));

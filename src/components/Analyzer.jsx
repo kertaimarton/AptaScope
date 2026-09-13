@@ -10,6 +10,7 @@ import {
   Legend,
 } from "recharts";
 import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
+import StructureViewer from "./StructureViewer.jsx";
 import { cleanSequence, computeFeatures, formatKd, kdColorClass } from "../utils/sequence.js";
 import { percentileRank, median, ordinalSuffix } from "../utils/stats.js";
 import PageHeading from "./PageHeading.jsx";
@@ -388,6 +389,31 @@ export default function Analyzer({ data }) {
                 </table>
               </div>
             )}
+          </div>
+
+          {/* Panel E: Predicted Structure */}
+          <div className="bg-surface border border-border rounded-md p-4">
+            <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">Predicted Structure</h2>
+            <div
+              className={`grid grid-cols-1 gap-4 ${
+                similarResults?.[0] ? "md:grid-cols-2" : ""
+              }`}
+            >
+              <StructureViewer
+                sequence={analysis.sequence}
+                dotBracket={null}
+                label="Your sequence"
+                height={260}
+              />
+              {similarResults?.[0] && (
+                <StructureViewer
+                  sequence={similarResults[0].sequence}
+                  dotBracket={similarResults[0].mfe_structure}
+                  label={`Closest known match — ${similarResults[0].target_name} (${similarResults[0].similarity.toFixed(0)}% similar)`}
+                  height={260}
+                />
+              )}
+            </div>
           </div>
         </>
       )}

@@ -1,3 +1,10 @@
 node_modules/
 dist/
 .DS_Store
+
+# Scraper resume-state (not a data product) and broken exports from the
+# same scraper run (only contain source/year columns — aptanexus_raw.jsonl
+# is the real data for that source, see APTASCOPE_V2_SPEC.md Phase 0)
+aptascope_aptadb/aptadb_checkpoint.json
+aptascope_aptanexus/aptanexus_raw.json
+aptascope_aptanexus/aptanexus_raw.csv
