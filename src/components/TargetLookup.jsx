@@ -11,8 +11,10 @@ import {
 import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import PageHeading from "./PageHeading.jsx";
 import StructureViewer from "./StructureViewer.jsx";
+import ProteinStructureViewer from "./ProteinStructureViewer.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 import { quantile } from "../utils/stats.js";
+import { resolveUniProtId } from "../utils/alphafold.js";
 
 const PAGE_SIZE = 50;
 
@@ -117,6 +119,8 @@ export default function TargetLookup({ data }) {
       .slice(0, 3);
   }, [records]);
 
+  const uniprotId = useMemo(() => resolveUniProtId(records), [records]);
+
   return (
     <div className="space-y-4">
       <PageHeading>Target Lookup</PageHeading>
@@ -188,6 +192,20 @@ export default function TargetLookup({ data }) {
               </div>
             </div>
           </div>
+
+          {uniprotId && (
+            <div className="bg-surface border border-border rounded-md p-4">
+              <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">
+                Target 3D Structure (AlphaFold)
+              </h2>
+              <p className="text-[13px] text-textsecondary mb-3">
+                This is the predicted structure of {selected} itself, the protein this
+                aptamer binds — not the aptamer's own fold, which AlphaFold can't
+                predict (it doesn't model DNA/RNA).
+              </p>
+              <ProteinStructureViewer uniprotId={uniprotId} targetName={selected} />
+            </div>
+          )}
 
           {topBinders.length > 0 && (
             <div className="bg-surface border border-border rounded-md p-4">
