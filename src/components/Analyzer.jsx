@@ -13,7 +13,12 @@ import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import StructureViewer from "./StructureViewer.jsx";
 import { cleanSequence, computeFeatures, formatKd, kdColorClass } from "../utils/sequence.js";
 import { percentileRank, median, ordinalSuffix } from "../utils/stats.js";
+import { nussinovFold, parseDotBracket } from "../utils/structure.js";
+import { generateOptimizationSuggestions, applyAllSuggestions } from "../utils/optimizer.js";
+import optimizationProfiles from "../data/optimization_profiles.json";
 import PageHeading from "./PageHeading.jsx";
+
+const PROFILE_ORDER = ["All", "Protein", "Small Molecule", "Cell", "Nucleic Acid", "Microorganism", "Other"];
 
 const EXAMPLES = [
   { label: "Thrombin Aptamer (HD1)", sequence: "GGTTGGTGTGGTTGG" },
@@ -113,6 +118,7 @@ export default function Analyzer({ data }) {
   const [similarResults, setSimilarResults] = useState(null);
   const [isSearching, setIsSearching] = useState(false);
   const [error, setError] = useState(null);
+  const [targetTypeProfile, setTargetTypeProfile] = useState("All");
   const workerRef = useRef(null);
 
   const distributions = useMemo(() => buildDistributions(data), [data]);
@@ -198,6 +204,36 @@ export default function Analyzer({ data }) {
 
   const suggestions = analysis ? generateSuggestions(analysis) : [];
 
+  // Mirrors StructureViewer's own fallback fold for "Your sequence" so the
+  // optimizer reasons about the exact same pair table the user sees drawn.
+  const dotBracket = useMemo(
+    () => (analysis ? nussinovFold(analysis.sequence) : null),
+    [analysis]
+  );
+  const pairTable = useMemo(
+    () => (dotBracket ? parseDotBracket(dotBracket) : null),
+    [dotBracket]
+  );
+  const activeProfile = optimizationProfiles[targetTypeProfile] || optimizationProfiles.All;
+  const optimizationSuggestions = useMemo(
+    () =>
+      analysis && pairTable
+        ? generateOptimizationSuggestions(analysis.sequence, analysis, pairTable, activeProfile)
+        : [],
+    [analysis, pairTable, activeProfile]
+  );
+
+  function applySuggestion(newSequence) {
+    setInputText(newSequence);
+    runAnalysis(newSequence);
+  }
+
+  function applyAll() {
+    if (!analysis) return;
+    const combined = applyAllSuggestions(analysis.sequence, optimizationSuggestions);
+    applySuggestion(combined);
+  }
+
   return (
     <div className="space-y-6">
       <PageHeading>Analyzer</PageHeading>
@@ -222,7 +258,21 @@ export default function Analyzer({ data }) {
           </div>
         )}
         {error && <div className="text-xs text-danger">{error}</div>}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 flex-wrap">
+          <label className="text-xs text-textsecondary">
+            Target type:{" "}
+            <select
+              value={targetTypeProfile}
+              onChange={(e) => setTargetTypeProfile(e.target.value)}
+              className="bg-bg border border-border rounded px-1.5 py-1 text-textprimary focus:outline-none focus:border-accent"
+            >
+              {PROFILE_ORDER.filter((t) => optimizationProfiles[t]).map((t) => (
+                <option key={t} value={t}>
+                  {t === "All" ? "All targets" : t}
+                </option>
+              ))}
+            </select>
+          </label>
           <button
             onClick={() => runAnalysis(inputText)}
             className="px-4 py-1.5 bg-accent text-bg font-medium text-sm rounded hover:opacity-90"
@@ -342,6 +392,62 @@ export default function Analyzer({ data }) {
             </div>
           </div>
 
+          {/* Panel F: Optimization Suggestions */}
+          <div className="bg-surface border border-border rounded-md p-4">
+            <div className="flex items-center justify-between mb-1">
+              <h2 className="text-xs uppercase tracking-wider font-semibold">Optimization Suggestions</h2>
+              {optimizationSuggestions.some((s) => s.newSequence) && (
+                <button
+                  onClick={applyAll}
+                  className="text-xs px-2 py-1 border border-accent text-accent rounded hover:bg-accent hover:text-bg"
+                >
+                  Apply all
+                </button>
+              )}
+            </div>
+            <p className="text-[13px] text-textsecondary mb-3">
+              Position-specific edits based on what distinguishes top-25%-by-affinity{" "}
+              {targetTypeProfile === "All" ? "" : `${targetTypeProfile} `}binders (n=
+              {activeProfile.top_cohort_size.toLocaleString()}) from the rest of the dataset.
+            </p>
+            {optimizationSuggestions.length === 0 ? (
+              <div className="text-sm text-textsecondary py-4 text-center">
+                No weaknesses detected relative to this target type's top binders.
+              </div>
+            ) : (
+              <div className="space-y-2">
+                {optimizationSuggestions.map((s) => (
+                  <div key={s.id} className="bg-bg border border-border rounded p-3">
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="flex-1">
+                        <div className="text-sm font-medium mb-1">{s.title}</div>
+                        <p className="text-[13px] text-textsecondary">{s.rationale}</p>
+                        {s.currentFragment && s.suggestedFragment && (
+                          <div className="mt-1.5 font-mono text-xs">
+                            <span className="text-danger">{s.currentFragment}</span>
+                            <span className="text-textsecondary mx-1">→</span>
+                            <span className="text-success">{s.suggestedFragment}</span>
+                          </div>
+                        )}
+                      </div>
+                      <div className="flex flex-col items-end gap-1.5 shrink-0">
+                        <span className="text-[11px] text-textsecondary whitespace-nowrap">{s.impact}</span>
+                        {s.newSequence && (
+                          <button
+                            onClick={() => applySuggestion(s.newSequence)}
+                            className="text-xs px-2 py-1 border border-border rounded text-textsecondary hover:text-textprimary hover:border-accent whitespace-nowrap"
+                          >
+                            Apply
+                          </button>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+
           {/* Panel C: Most Similar Known Aptamers */}
           <div className="bg-surface border border-border rounded-md p-4">
             <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">Most Similar Known Aptamers</h2>
@@ -401,7 +507,7 @@ export default function Analyzer({ data }) {
             >
               <StructureViewer
                 sequence={analysis.sequence}
-                dotBracket={null}
+                dotBracket={dotBracket}
                 label="Your sequence"
                 height={260}
               />
