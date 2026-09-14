@@ -34,9 +34,21 @@ export function parseDotBracket(dotBracket) {
 
 const MIN_HAIRPIN = 3; // minimum unpaired bases in a hairpin loop
 
-function canPair(a, b) {
-  const pairs = new Set(["AT", "TA", "AU", "UA", "GC", "CG", "GT", "TG", "GU", "UG"]);
+// Canonical Watson-Crick pairs only, plus the G-U wobble pair that's a real,
+// well-documented tolerance in RNA secondary structure. G-T is deliberately
+// NOT included: unlike RNA's G-U, a DNA duplex has no such wobble pair in
+// standard base-pairing rules, and a sequence containing "T" is DNA (RNA
+// uses "U"), so the two never both apply to the same sequence anyway.
+export function canPair(a, b) {
+  const pairs = new Set(["AT", "TA", "AU", "UA", "GC", "CG", "GU", "UG"]);
   return pairs.has(a + b);
+}
+
+// G-U is a real base pair (a "wobble" pair, geometrically looser than
+// Watson-Crick) but weaker than G-C/A-U — worth telling apart visually so
+// it doesn't read as an error next to canonical pairs.
+export function isWobblePair(a, b) {
+  return (a === "G" && b === "U") || (a === "U" && b === "G");
 }
 
 // Classic Nussinov maximum-base-pairing DP. Doesn't model real thermodynamics

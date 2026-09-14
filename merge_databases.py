@@ -305,15 +305,31 @@ def count_stems_loops(dot_bracket) -> tuple:
     return stems, loops
 
 
-def predict_structure_if_missing(sequence: str, existing_mfe, existing_structure):
+def predict_structure_if_missing(sequence: str, aptamer_type: str, existing_mfe, existing_structure):
     """AptaDB records have no precomputed structure; fold them ourselves
     (same approach as v1) so the whole dataset has structure data where
     ViennaRNA is available. AptaNexus records already carry MFE/dot-bracket
-    from the source and are left as-is."""
-    if existing_mfe is not None or existing_structure:
-        return existing_mfe, existing_structure
+    from the source and are left as-is — EXCEPT for DNA, which is always
+    (re)computed here: AptaNexus's own supplied DNA structures turned out
+    to have been folded with plain RNA rules (T->U, G-U wobble allowed),
+    which comes back as a non-canonical G-T "pair" that doesn't exist in a
+    real DNA duplex (~70-80% of DNA records across every source had at
+    least one). DNA gets ViennaRNA's actual DNA parameter set (Mathews
+    2004) with wobble pairing disabled, so only canonical G-C/A-T pairs
+    ever come out, backed by real DNA thermodynamics instead of a borrowed
+    RNA energy value."""
     if not HAVE_VIENNARNA or len(sequence) < 3:
         return None, None
+    if aptamer_type == "DNA":
+        md = RNA.md()
+        md.noGU = 1
+        RNA.params_load_DNA_Mathews2004()
+        fc = RNA.fold_compound(sequence, md)
+        structure, mfe = fc.mfe()
+        RNA.params_load_RNA_Turner2004()  # restore defaults for any RNA fold that follows
+        return round(float(mfe), 2), structure
+    if existing_mfe is not None or existing_structure:
+        return existing_mfe, existing_structure
     structure, mfe = RNA.fold(sequence.replace("T", "U"))
     return round(float(mfe), 2), structure
 
@@ -517,7 +533,7 @@ def enrich(records: list[dict]) -> list[dict]:
     enriched = []
     for i, r in enumerate(records):
         predicted_mfe, mfe_structure = predict_structure_if_missing(
-            r["sequence"], r["predicted_mfe"], r["mfe_structure"]
+            r["sequence"], r["aptamer_type"], r["predicted_mfe"], r["mfe_structure"]
         )
         r["predicted_mfe"] = predicted_mfe
         r["mfe_structure"] = mfe_structure

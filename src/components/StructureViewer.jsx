@@ -1,5 +1,5 @@
 import { useMemo, useRef, useState } from "react";
-import { parseDotBracket, nussinovFold, identifyRegions, computeLayout } from "../utils/structure.js";
+import { parseDotBracket, nussinovFold, identifyRegions, computeLayout, isWobblePair } from "../utils/structure.js";
 import { nucleotideColor } from "../utils/sequence.js";
 
 const NODE_RADIUS = 6;
@@ -77,12 +77,23 @@ export default function StructureViewer({ sequence, dotBracket, label, height = 
     img.src = url;
   }
 
+  const hasWobblePair = useMemo(
+    () =>
+      pairTable.some(
+        (partner, i) => partner > i && isWobblePair(sequence[i], sequence[partner])
+      ),
+    [pairTable, sequence]
+  );
+
   const selectedInfo = selected !== null && selected !== undefined
     ? {
         position: selected + 1,
         base: sequence[selected],
         partner: pairTable[selected] !== -1 ? pairTable[selected] + 1 : null,
         partnerBase: pairTable[selected] !== -1 ? sequence[pairTable[selected]] : null,
+        wobble:
+          pairTable[selected] !== -1 &&
+          isWobblePair(sequence[selected], sequence[pairTable[selected]]),
       }
     : null;
 
@@ -118,12 +129,14 @@ export default function StructureViewer({ sequence, dotBracket, label, height = 
             const p = layout[i];
             const q = layout[partner];
             const dim = hoverRegion !== null && regionId[i] !== hoverRegion;
+            const wobble = isWobblePair(sequence[i], sequence[partner]);
             return (
               <line
                 key={`bp-${i}`}
                 x1={p.x} y1={p.y} x2={q.x} y2={q.y}
-                stroke="#E0576B"
+                stroke={wobble ? "#D29922" : "#E0576B"}
                 strokeWidth={1.5}
+                strokeDasharray={wobble ? "3,2" : undefined}
                 opacity={dim ? 0.1 : 0.85}
               />
             );
@@ -173,7 +186,9 @@ export default function StructureViewer({ sequence, dotBracket, label, height = 
             <span className="ml-3 font-mono text-textprimary">
               pos {selectedInfo.position}: {selectedInfo.base}
               {selectedInfo.partner
-                ? ` ↔ pos ${selectedInfo.partner} (${selectedInfo.partnerBase})`
+                ? ` ↔ pos ${selectedInfo.partner} (${selectedInfo.partnerBase})${
+                    selectedInfo.wobble ? " — G·U wobble" : ""
+                  }`
                 : " (unpaired)"}
             </span>
           )}
@@ -193,6 +208,12 @@ export default function StructureViewer({ sequence, dotBracket, label, height = 
           </button>
         </span>
       </div>
+      {hasWobblePair && (
+        <div className="mt-1 text-[11px] text-textsecondary flex items-center gap-1.5">
+          <span className="inline-block w-3 border-t border-dashed" style={{ borderColor: "#D29922" }} />
+          G·U wobble pair — a real but weaker bond than Watson-Crick G-C/A-U
+        </div>
+      )}
     </div>
   );
 }
