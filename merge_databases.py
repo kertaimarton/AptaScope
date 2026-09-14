@@ -3,13 +3,13 @@ AptaScope v2 — Phase 0 database merge.
 
 Merges AptaNexus (aptanexus_raw.jsonl, ~12,535 records) and AptaDB
 (aptadb_raw.json, ~1,350 records) into a single unified schema per
-APTASCOPE_V2_SPEC.md, and writes src/data/aptascope_merged.json.
+APTASCOPE_V2_SPEC.md, and writes public/data/aptascope_merged.json.
 
 Usage:
     python merge_databases.py \\
         --aptanexus aptascope_aptanexus/aptanexus_raw.jsonl \\
         --aptadb aptascope_aptadb/aptadb_raw.json \\
-        --output src/data/aptascope_merged.json
+        --output public/data/aptascope_merged.json
 
 Notes on data quality (discovered while building this):
   - AptaDB's raw `sequence` field is already clean ATGCU-only text for all

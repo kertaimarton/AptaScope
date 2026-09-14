@@ -1,0 +1,413 @@
+{
+  "P00533": {
+    "uniprot_id": "P00533",
+    "protein_name": "Epidermal growth factor receptor",
+    "gene_name": "EGFR",
+    "organism": "Homo sapiens",
+    "function": "Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses (PubMed:10805725, PubMed:12297050, PubMed:12620237, PubMed:12873986, PubMed:15374980, PubMed:15590694, PubMed:17115032, PubMed:19560417, PubMed:21258366, PubMed:27153536, PubMed:2790960, PubMed:35538033, PubMed:9488479). Known ligands include EGF, TGFA/TGF-alpha, AREG, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF (PubMed:12297049, PubMed:15611079, PubMed:17909029, PubMed:20837704, PubMed:27153536, PubMed:2790960, PubMed:7679104, PubMed:8144591, PubMed:9419975). Ligand binding triggers receptor homo- and/or heterodimerization and autophosphorylation on key cytoplasmic residues (PubMed:10026169, PubMed:17349580, PubMed:18046415, PubMed:19560417, PubMed:19836242). The phosphorylated receptor recruits adapter proteins like GRB2 which in turn activates complex downstream signaling cascades (PubMed:10026169, PubMed:17349580, PubMed:18046415, PubMed:19560417, PubMed:19836242). Activates at least 4 major downstream signaling cascades including the RAS-RAF-MEK-ERK, PI3 kinase-AKT, PLCgamma-PKC and STATs modules (PubMed:27153536). May also activate the NF-kappa-B signaling cascade (PubMed:11116146). Also directly phosphorylates other proteins like RGS16, activating its GTPase activity and probably coupling the EGF receptor signaling to the G protein-coupled receptor signaling (PubMed:11602604). Also phosphorylates MUC1 and increases its interaction with SRC and CTNNB1/beta-catenin (PubMed:11483589). Positively regulates cell migration via interaction with CCDC88A/GIV which retains EGFR at the cell membrane following ligand stimulation, promoting EGFR signaling which triggers cell migration (PubMed:20462955). Acts as a positive regulator of cGAS-STING signaling by mediating tyrosine phosphorylation of STING1, promoting production of type I interferon (IFN-alpha and IFN-beta), while inhibiting STING1 ability to regulate autophagy (PubMed:32926474). Plays a role in enhancing learning and memory performance (By similarity). Plays a role in mammalian pain signaling (long-lasting hypersensitivity) (By similarity)",
+    "subcellular_location": [
+      "Cell membrane",
+      "Endoplasmic reticulum membrane",
+      "Golgi apparatus membrane",
+      "Nucleus membrane",
+      "Endosome",
+      "Endosome membrane",
+      "Nucleus",
+      "Secreted"
+    ],
+    "diseases": [
+      "Lung cancer",
+      "Neonatal nephrocutaneous inflammatory syndrome"
+    ],
+    "molecular_weight": 134277,
+    "length_aa": 1210
+  },
+  "P01031": {
+    "uniprot_id": "P01031",
+    "protein_name": "Complement C5",
+    "gene_name": "C5",
+    "organism": "Homo sapiens",
+    "function": "Precursor of the C5a anaphylatoxin and complement C5b components of the complement pathways, which consist in a cascade of proteins that leads to phagocytosis and breakdown of pathogens and signaling that strengthens the adaptive immune system (PubMed:12878586, PubMed:18204047, PubMed:30643019, PubMed:6554279). Activated downstream of classical, alternative, lectin and GZMK complement pathways (PubMed:12878586, PubMed:18204047, PubMed:30643019, PubMed:39914456, PubMed:39814882, PubMed:6554279)",
+    "subcellular_location": [
+      "Secreted",
+      "Secreted",
+      "Target cell membrane",
+      "Secreted"
+    ],
+    "diseases": [
+      "Complement component 5 deficiency",
+      ""
+    ],
+    "molecular_weight": 188305,
+    "length_aa": 1676
+  },
+  "P01127": {
+    "uniprot_id": "P01127",
+    "protein_name": "Platelet-derived growth factor subunit B",
+    "gene_name": "PDGFB",
+    "organism": "Homo sapiens",
+    "function": "Growth factor that plays an essential role in the regulation of embryonic development, cell proliferation, cell migration, survival and chemotaxis. Potent mitogen for cells of mesenchymal origin (PubMed:26599395). Required for normal proliferation and recruitment of pericytes and vascular smooth muscle cells in the central nervous system, skin, lung, heart and placenta. Required for normal blood vessel development, and for normal development of kidney glomeruli. Plays an important role in wound healing. Signaling is modulated by the formation of heterodimers with PDGFA (By similarity)",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [
+      "Basal ganglia calcification, idiopathic, 5",
+      ""
+    ],
+    "molecular_weight": 27283,
+    "length_aa": 241
+  },
+  "P01138": {
+    "uniprot_id": "P01138",
+    "protein_name": "Beta-nerve growth factor",
+    "gene_name": "NGF",
+    "organism": "Homo sapiens",
+    "function": "Nerve growth factor is important for the development and maintenance of the sympathetic and sensory nervous systems (PubMed:14976160, PubMed:20978020). Extracellular ligand for the NTRK1 and NGFR receptors, activates cellular signaling cascades to regulate neuronal proliferation, differentiation and survival (Probable) (PubMed:20978020). The immature NGF precursor (proNGF) functions as a ligand for the heterodimeric receptor formed by SORCS2 and NGFR, and activates cellular signaling cascades that lead to inactivation of RAC1 and/or RAC2, reorganization of the actin cytoskeleton and neuronal growth cone collapse. In contrast to mature NGF, the precursor form (proNGF) promotes neuronal apoptosis (in vitro) (By similarity). Inhibits metalloproteinase-dependent proteolysis of platelet glycoprotein VI (PubMed:20164177). Binds lysophosphatidylinositol and lysophosphatidylserine between the two chains of the homodimer. The lipid-bound form promotes histamine relase from mast cells, contrary to the lipid-free form (By similarity)",
+    "subcellular_location": [
+      "Secreted",
+      "Endosome lumen"
+    ],
+    "diseases": [
+      "Neuropathy, hereditary sensory and autonomic, 5"
+    ],
+    "molecular_weight": 26959,
+    "length_aa": 241
+  },
+  "P01215": {
+    "uniprot_id": "P01215",
+    "protein_name": "Glycoprotein hormones alpha chain",
+    "gene_name": "CGA",
+    "organism": "Homo sapiens",
+    "function": "Shared alpha chain of the active heterodimeric glycoprotein hormones thyrotropin/thyroid stimulating hormone/TSH, lutropin/luteinizing hormone/LH, follitropin/follicle stimulating hormone/FSH and choriogonadotropin/CG. These hormones bind specific receptors on target cells that in turn activate downstream signaling pathways",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 13075,
+    "length_aa": 116
+  },
+  "P02879": {
+    "uniprot_id": "P02879",
+    "protein_name": "Ricin",
+    "gene_name": "",
+    "organism": "Ricinus communis",
+    "function": "Ricin is highly toxic to animal cells, and to a lesser extent to plant cells",
+    "subcellular_location": [],
+    "diseases": [],
+    "molecular_weight": 64091,
+    "length_aa": 576
+  },
+  "P04626": {
+    "uniprot_id": "P04626",
+    "protein_name": "Receptor tyrosine-protein kinase erbB-2",
+    "gene_name": "ERBB2",
+    "organism": "Homo sapiens",
+    "function": "Protein tyrosine kinase that is part of several cell surface receptor complexes, but that apparently needs a coreceptor for ligand binding. Essential component of a neuregulin-receptor complex, although neuregulins do not interact with it alone. GP30 is a potential ligand for this receptor. Regulates outgrowth and stabilization of peripheral microtubules (MTs). Upon ERBB2 activation, the MEMO1-RHOA-DIAPH1 signaling pathway elicits the phosphorylation and thus the inhibition of GSK3B at cell membrane. This prevents the phosphorylation of APC and CLASP2, allowing its association with the cell membrane. In turn, membrane-bound APC allows the localization of MACF1 to the cell membrane, which is required for microtubule capture and stabilization",
+    "subcellular_location": [
+      "Cell membrane",
+      "Cell projection, ruffle membrane",
+      "Cell membrane",
+      "Early endosome",
+      "Cytoplasm, perinuclear region",
+      "Nucleus",
+      "Cytoplasm",
+      "Nucleus",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "diseases": [
+      "Glioma",
+      "Ovarian cancer",
+      "Lung cancer",
+      "Gastric cancer",
+      "",
+      "Visceral neuropathy, familial, 2, autosomal recessive"
+    ],
+    "molecular_weight": 137910,
+    "length_aa": 1255
+  },
+  "P05231": {
+    "uniprot_id": "P05231",
+    "protein_name": "Interleukin-6",
+    "gene_name": "IL6",
+    "organism": "Homo sapiens",
+    "function": "Cytokine with a wide variety of biological functions in immunity, tissue regeneration, and metabolism. Binds to IL6R, then the complex associates to the signaling subunit IL6ST/gp130 to trigger the intracellular IL6-signaling pathway (Probable). The interaction with the membrane-bound IL6R and IL6ST stimulates 'classic signaling', whereas the binding of IL6 and soluble IL6R to IL6ST stimulates 'trans-signaling'. Alternatively, 'cluster signaling' occurs when membrane-bound IL6:IL6R complexes on transmitter cells activate IL6ST receptors on neighboring receiver cells (Probable)",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [
+      "Rheumatoid arthritis systemic juvenile",
+      ""
+    ],
+    "molecular_weight": 23718,
+    "length_aa": 212
+  },
+  "P06756": {
+    "uniprot_id": "P06756",
+    "protein_name": "Integrin alpha-V",
+    "gene_name": "ITGAV",
+    "organism": "Homo sapiens",
+    "function": "The alpha-V (ITGAV) integrins are receptors for vitronectin, cytotactin, fibronectin, fibrinogen, laminin, matrix metalloproteinase-2, osteopontin, osteomodulin, prothrombin, thrombospondin and vWF. They recognize the sequence R-G-D in a wide array of ligands. ITGAV:ITGB3 binds to fractalkine (CX3CL1) and may act as its coreceptor in CX3CR1-dependent fractalkine signaling (PubMed:23125415). ITGAV:ITGB3 binds to NRG1 (via EGF domain) and this binding is essential for NRG1-ERBB signaling (PubMed:20682778). ITGAV:ITGB3 binds to FGF1 and this binding is essential for FGF1 signaling (PubMed:18441324). ITGAV:ITGB3 binds to FGF2 and this binding is essential for FGF2 signaling (PubMed:28302677). ITGAV:ITGB3 binds to IGF1 and this binding is essential for IGF1 signaling (PubMed:19578119). ITGAV:ITGB3 binds to IGF2 and this binding is essential for IGF2 signaling (PubMed:28873464). ITGAV:ITGB3 binds to IL1B and this binding is essential for IL1B signaling (PubMed:29030430). ITGAV:ITGB3 binds to PLA2G2A via a site (site 2) which is distinct from the classical ligand-binding site (site 1) and this induces integrin conformational changes and enhanced ligand binding to site 1 (PubMed:18635536, PubMed:25398877). ITGAV:ITGB3 and ITGAV:ITGB6 act as receptors for fibrillin-1 (FBN1) and mediate R-G-D-dependent cell adhesion to FBN1 (PubMed:12807887, PubMed:17158881). Integrin alpha-V/beta-6 or alpha-V/beta-8 (ITGAV:ITGB6 or ITGAV:ITGB8) mediates R-G-D-dependent release of transforming growth factor beta-1 (TGF-beta-1) from regulatory Latency-associated peptide (LAP), thereby playing a key role in TGF-beta-1 activation (PubMed:15184403, PubMed:22278742, PubMed:28117447). ITGAV:ITGB3 acts as a receptor for CD40LG (PubMed:31331973). ITGAV:ITGB3 acts as a receptor for IBSP and promotes cell adhesion and migration to IBSP (PubMed:10640428). ITGAV:ITGB3 acts as a receptor for SNED1 and mediates R-G-D-dependent cell adhesion to SNED1 (PubMed:39713860)",
+    "subcellular_location": [
+      "Cell membrane",
+      "Cell junction, focal adhesion"
+    ],
+    "diseases": [
+      "Immune dysregulation, neurodevelopmental defects, and colitis"
+    ],
+    "molecular_weight": 116038,
+    "length_aa": 1048
+  },
+  "P08887": {
+    "uniprot_id": "P08887",
+    "protein_name": "Interleukin-6 receptor subunit alpha",
+    "gene_name": "IL6R",
+    "organism": "Homo sapiens",
+    "function": "Part of the receptor for interleukin 6. Binds to IL6 with low affinity, but does not transduce a signal (PubMed:28265003). Signal activation necessitate an association with IL6ST. Activation leads to the regulation of the immune response, acute-phase reactions and hematopoiesis (PubMed:30995492, PubMed:31235509). The interaction with membrane-bound IL6R and IL6ST stimulates 'classic signaling', the restricted expression of the IL6R limits classic IL6 signaling to only a few tissues such as the liver and some cells of the immune system. Whereas the binding of IL6 and soluble IL6R to IL6ST stimulates 'trans-signaling'. Alternatively, 'cluster signaling' occurs when membrane-bound IL6:IL6R complexes on transmitter cells activate IL6ST receptors on neighboring receiver cells (Probable)",
+    "subcellular_location": [
+      "Cell membrane",
+      "Secreted",
+      "Secreted"
+    ],
+    "diseases": [
+      "Hyper-IgE syndrome 5, autosomal recessive, with recurrent infections"
+    ],
+    "molecular_weight": 51548,
+    "length_aa": 468
+  },
+  "P10145": {
+    "uniprot_id": "P10145",
+    "protein_name": "Interleukin-8",
+    "gene_name": "CXCL8",
+    "organism": "Homo sapiens",
+    "function": "Chemotactic factor that mediates inflammatory response by attracting neutrophils, basophils, and T-cells to clear pathogens and protect the host from infection (PubMed:18692776, PubMed:7636208). Also plays an important role in neutrophil activation (PubMed:2145175, PubMed:9623510). Released in response to an inflammatory stimulus, exerts its effect by binding to the G protein-coupled receptors CXCR1 and CXCR2, primarily found in neutrophils, monocytes and endothelial cells (PubMed:1840701, PubMed:1891716). G protein heterotrimer (alpha, beta, gamma subunits) constitutively binds to CXCR1/CXCR2 receptor and activation by IL8 leads to beta and gamma subunits release from Galpha (GNAI2 in neutrophils) and activation of several downstream signaling pathways including PI3K and MAPK pathways (PubMed:11971003, PubMed:8662698)",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 11098,
+    "length_aa": 99
+  },
+  "P10279": {
+    "uniprot_id": "P10279",
+    "protein_name": "Major prion protein",
+    "gene_name": "PRNP",
+    "organism": "Bos taurus",
+    "function": "Its primary physiological function is unclear. May play a role in neuronal development and synaptic plasticity. May be required for neuronal myelin sheath maintenance. May promote myelin homeostasis through acting as an agonist for ADGRG6 receptor. May play a role in iron uptake and iron homeostasis. Soluble oligomers are toxic to cultured neuroblastoma cells and induce apoptosis (in vitro) (By similarity). Association with GPC1 (via its heparan sulfate chains) targets PRNP to lipid rafts. Also provides Cu(2+) or Zn(2+) for the ascorbate-mediated GPC1 deaminase degradation of its heparan sulfate side chains (By similarity)",
+    "subcellular_location": [
+      "Cell membrane",
+      "Golgi apparatus"
+    ],
+    "diseases": [
+      ""
+    ],
+    "molecular_weight": 28614,
+    "length_aa": 264
+  },
+  "P10451": {
+    "uniprot_id": "P10451",
+    "protein_name": "Osteopontin",
+    "gene_name": "SPP1",
+    "organism": "Homo sapiens",
+    "function": "Major non-collagenous bone protein that binds tightly to hydroxyapatite. Appears to form an integral part of the mineralized matrix. Probably important to cell-matrix interaction",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 35423,
+    "length_aa": 314
+  },
+  "P13500": {
+    "uniprot_id": "P13500",
+    "protein_name": "C-C motif chemokine 2",
+    "gene_name": "CCL2",
+    "organism": "Homo sapiens",
+    "function": "Acts as a ligand for C-C chemokine receptor CCR2 (PubMed:10529171, PubMed:10587439, PubMed:9837883). Signals through binding and activation of CCR2 and induces a strong chemotactic response and mobilization of intracellular calcium ions (PubMed:10587439, PubMed:9837883). Exhibits a chemotactic activity for monocytes and basophils but not neutrophils or eosinophils (PubMed:8195247, PubMed:8627182, PubMed:9792674). May be involved in the recruitment of monocytes into the arterial wall during the disease process of atherosclerosis (PubMed:8107690)",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 11025,
+    "length_aa": 99
+  },
+  "P14780": {
+    "uniprot_id": "P14780",
+    "protein_name": "Matrix metalloproteinase-9",
+    "gene_name": "MMP9",
+    "organism": "Homo sapiens",
+    "function": "Matrix metalloproteinase that plays an essential role in local proteolysis of the extracellular matrix and in leukocyte migration (PubMed:12879005, PubMed:1480034, PubMed:2551898). Could play a role in bone osteoclastic resorption (By similarity). Cleaves KiSS1 at a Gly-|-Leu bond (PubMed:12879005). Cleaves NINJ1 to generate the Secreted ninjurin-1 form (PubMed:32883094). Cleaves type IV and type V collagen into large C-terminal three quarter fragments and shorter N-terminal one quarter fragments (PubMed:1480034). Degrades fibronectin but not laminin or Pz-peptide",
+    "subcellular_location": [
+      "Secreted, extracellular space, extracellular matrix"
+    ],
+    "diseases": [
+      "Intervertebral disc disease",
+      "Metaphyseal anadysplasia 2"
+    ],
+    "molecular_weight": 78458,
+    "length_aa": 707
+  },
+  "P15692": {
+    "uniprot_id": "P15692",
+    "protein_name": "Vascular endothelial growth factor A, long form",
+    "gene_name": "VEGFA",
+    "organism": "Homo sapiens",
+    "function": "Participates in the induction of key genes involved in the response to hypoxia and in the induction of angiogenesis such as HIF1A (PubMed:35455969). Involved in protecting cells from hypoxia-mediated cell death (By similarity)",
+    "subcellular_location": [
+      "Cytoplasm",
+      "Nucleus",
+      "Secreted",
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Secreted, extracellular space, extracellular matrix",
+      "Secreted",
+      "Secreted",
+      "Secreted"
+    ],
+    "diseases": [
+      "Microvascular complications of diabetes 1"
+    ],
+    "molecular_weight": 43597,
+    "length_aa": 395
+  },
+  "P16422": {
+    "uniprot_id": "P16422",
+    "protein_name": "Epithelial cell adhesion molecule",
+    "gene_name": "EPCAM",
+    "organism": "Homo sapiens",
+    "function": "May act as a physical homophilic interaction molecule between intestinal epithelial cells (IECs) and intraepithelial lymphocytes (IELs) at the mucosal epithelium for providing immunological barrier as a first line of defense against mucosal infection. Plays a role in embryonic stem cells proliferation and differentiation. Up-regulates the expression of FABP5, MYC and cyclins A and E",
+    "subcellular_location": [
+      "Lateral cell membrane",
+      "Cell junction, tight junction"
+    ],
+    "diseases": [
+      "Diarrhea 5, with tufting enteropathy, congenital",
+      "Lynch syndrome 8"
+    ],
+    "molecular_weight": 34932,
+    "length_aa": 314
+  },
+  "P19838": {
+    "uniprot_id": "P19838",
+    "protein_name": "Nuclear factor NF-kappa-B p105 subunit",
+    "gene_name": "NFKB1",
+    "organism": "Homo sapiens",
+    "function": "NF-kappa-B is a pleiotropic transcription factor present in almost all cell types and is the endpoint of a series of signal transduction events that are initiated by a vast array of stimuli related to many biological processes such as inflammation, immunity, differentiation, cell growth, tumorigenesis and apoptosis. NF-kappa-B is a homo- or heterodimeric complex formed by the Rel-like domain-containing proteins RELA/p65, RELB, NFKB1/p105, NFKB1/p50, REL and NFKB2/p52 and the heterodimeric p65-p50 complex appears to be most abundant one. The dimers bind at kappa-B sites in the DNA of their target genes and the individual dimers have distinct preferences for different kappa-B sites that they can bind with distinguishable affinity and specificity. Different dimer combinations act as transcriptional activators or repressors, respectively. NF-kappa-B is controlled by various mechanisms of post-translational modification and subcellular compartmentalization as well as by interactions with other cofactors or corepressors. NF-kappa-B complexes are held in the cytoplasm in an inactive state complexed with members of the NF-kappa-B inhibitor (I-kappa-B) family. In a conventional activation pathway, I-kappa-B is phosphorylated by I-kappa-B kinases (IKKs) in response to different activators, subsequently degraded thus liberating the active NF-kappa-B complex which translocates to the nucleus. NF-kappa-B heterodimeric p65-p50 and RelB-p50 complexes are transcriptional activators. The NF-kappa-B p50-p50 homodimer is a transcriptional repressor, but can act as a transcriptional activator when associated with BCL3. NFKB1 appears to have dual functions such as cytoplasmic retention of attached NF-kappa-B proteins by p105 and generation of p50 by a cotranslational processing. The proteasome-mediated process ensures the production of both p50 and p105 and preserves their independent function, although processing of NFKB1/p105 also appears to occur post-translationally. p50 binds to the kappa-B consensus sequence 5'-GGRNNYYCC-3', located in the enhancer region of genes involved in immune response and acute phase reactions. In a complex with MAP3K8, NFKB1/p105 represses MAP3K8-induced MAPK signaling; active MAP3K8 is released by proteasome-dependent degradation of NFKB1/p105",
+    "subcellular_location": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "diseases": [
+      "Immunodeficiency, common variable, 12, with autoimmunity"
+    ],
+    "molecular_weight": 105356,
+    "length_aa": 968
+  },
+  "P21741": {
+    "uniprot_id": "P21741",
+    "protein_name": "Midkine",
+    "gene_name": "MDK",
+    "organism": "Homo sapiens",
+    "function": "Secreted protein that functions as a cytokine and growth factor and mediates its signal through cell-surface proteoglycan and non-proteoglycan receptors (PubMed:10212223, PubMed:10772929, PubMed:12084985, PubMed:12122009, PubMed:12573468, PubMed:15466886, PubMed:18469519, PubMed:24458438). Binds cell-surface proteoglycan receptors via their chondroitin sulfate (CS) groups (PubMed:10212223, PubMed:12084985). Thereby regulates many processes like inflammatory response, cell proliferation, cell adhesion, cell growth, cell survival, tissue regeneration, cell differentiation and cell migration (PubMed:10212223, PubMed:10683378, PubMed:10772929, PubMed:12084985, PubMed:12122009, PubMed:12573468, PubMed:15466886, PubMed:22323540, PubMed:24458438). Participates in inflammatory processes by exerting two different activities. Firstly, mediates neutrophils and macrophages recruitment to the sites of inflammation both by direct action by cooperating namely with ITGB2 via LRP1 and by inducing chemokine expression (PubMed:10683378, PubMed:24458438). This inflammation can be accompanied by epithelial cell survival and smooth muscle cell migration after renal and vessel damage, respectively (PubMed:10683378). Secondly, suppresses the development of tolerogenic dendric cells thereby inhibiting the differentiation of regulatory T cells and also promote T cell expansion through NFAT signaling and Th1 cell differentiation (PubMed:22323540). Promotes tissue regeneration after injury or trauma. After heart damage negatively regulates the recruitment of inflammatory cells and mediates cell survival through activation of anti-apoptotic signaling pathways via MAPKs and AKT pathways through the activation of angiogenesis (By similarity). Also facilitates liver regeneration as well as bone repair by recruiting macrophage at trauma site and by promoting cartilage development by facilitating chondrocyte differentiation (By similarity). Plays a role in brain by promoting neural precursor cells survival and growth through interaction with heparan sulfate proteoglycans (By similarity). Binds PTPRZ1 and promotes neuronal migration and embryonic neurons survival (PubMed:10212223). Binds SDC3 or GPC2 and mediates neurite outgrowth and cell adhesion (PubMed:12084985, PubMed:1768439). Binds chondroitin sulfate E and heparin leading to inhibition of neuronal cell adhesion induced by binding with GPC2 (PubMed:12084985). Binds CSPG5 and promotes elongation of oligodendroglial precursor-like cells (By similarity). Also binds ITGA6:ITGB1 complex; this interaction mediates MDK-induced neurite outgrowth (PubMed:15466886, PubMed:1768439). Binds LRP1; promotes neuronal survival (PubMed:10772929). Binds ITGA4:ITGB1 complex; this interaction mediates MDK-induced osteoblast cells migration through PXN phosphorylation (PubMed:15466886). Binds anaplastic lymphoma kinase (ALK) which induces ALK activation and subsequent phosphorylation of the insulin receptor substrate (IRS1), followed by the activation of mitogen-activated protein kinase (MAPK) and PI3-kinase, and the induction of cell proliferation (PubMed:12122009). Promotes epithelial to mesenchymal transition through interaction with NOTCH2 (PubMed:18469519). During arteriogenesis, plays a role in vascular endothelial cell proliferation by inducing VEGFA expression and release which in turn induces nitric oxide synthase expression. Moreover activates vasodilation through nitric oxide synthase activation (By similarity). Negatively regulates bone formation in response to mechanical load by inhibiting Wnt/beta-catenin signaling in osteoblasts (By similarity). In addition plays a role in hippocampal development, working memory, auditory response, early fetal adrenal gland development and the female reproductive system (By similarity)",
+    "subcellular_location": [
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 15585,
+    "length_aa": 143
+  },
+  "P25098": {
+    "uniprot_id": "P25098",
+    "protein_name": "G protein-coupled receptor kinase 2",
+    "gene_name": "GRK2",
+    "organism": "Homo sapiens",
+    "function": "Specifically phosphorylates the activated forms of G protein-coupled receptors (PubMed:14976224, PubMed:16179383, PubMed:19306925, PubMed:19715378, PubMed:21799898, PubMed:23077507, PubMed:30284927, PubMed:33859231, PubMed:39138140, PubMed:40384633). Such receptor phosphorylation initiates beta-arrestin-mediated receptor internalization, and signaling events leading to their desensitization (PubMed:14976224, PubMed:16179383, PubMed:19306925, PubMed:19715378, PubMed:21799898, PubMed:23077507, PubMed:30284927, PubMed:33859231, PubMed:39138140, PubMed:40384633). Phosphorylates the agonist-occupied form of the beta-adrenergic and closely related receptors, probably inducing a desensitization of them (PubMed:19715378). Phosphorylates catecholamine-activated ADRB2 to regulate physiological cardiomyocyte contraction rate responses (By similarity). Also phosphorylates ligand-bound C3a and C5a anaphylatoxin receptors (C3AR1 and C5AR1, respectively), leading to receptor desensitization (PubMed:21799898, PubMed:23077507). Positively regulates ciliary smoothened (SMO) signaling pathway by mediating phosphorylation of SMO, facilitating SMO trafficking into the cilium and the stimulation of SMO activity (PubMed:39138140). Also positively regulates SMO signaling by mediating phosphorylation of GPR161, a key inhibitor SMO signaling, promoting ciliary export of GPR161 (PubMed:40384633). Key regulator of LPAR1 signaling (PubMed:19306925). Competes with RALA for binding to LPAR1 thus affecting the signaling properties of the receptor (PubMed:19306925). Desensitizes LPAR1 and LPAR2 in a phosphorylation-independent manner (PubMed:19306925). Inhibits relaxation of airway smooth muscle in response to blue light (PubMed:30284927). Also able to mediate phosphorylation-independent desensitization of dopamine receptor DRD2 (By similarity)",
+    "subcellular_location": [
+      "Cytoplasm",
+      "Cell membrane",
+      "Cell projection, cilium membrane",
+      "Postsynapse",
+      "Presynapse"
+    ],
+    "diseases": [],
+    "molecular_weight": 79574,
+    "length_aa": 689
+  },
+  "P30530": {
+    "uniprot_id": "P30530",
+    "protein_name": "Tyrosine-protein kinase receptor UFO",
+    "gene_name": "AXL",
+    "organism": "Homo sapiens",
+    "function": "Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding growth factor GAS6 and which is thus regulating many physiological processes including cell survival, cell proliferation, migration and differentiation. Ligand binding at the cell surface induces dimerization and autophosphorylation of AXL. Following activation by ligand, AXL binds and induces tyrosine phosphorylation of PI3-kinase subunits PIK3R1, PIK3R2 and PIK3R3; but also GRB2, PLCG1, LCK and PTPN11. Other downstream substrate candidates for AXL are CBL, NCK2, SOCS1 and TNS2. Recruitment of GRB2 and phosphatidylinositol 3 kinase regulatory subunits by AXL leads to the downstream activation of the AKT kinase. GAS6/AXL signaling plays a role in various processes such as endothelial cell survival during acidification by preventing apoptosis, optimal cytokine signaling during human natural killer cell development, hepatic regeneration, gonadotropin-releasing hormone neuron survival and migration, platelet activation, or regulation of thrombotic responses. Also plays an important role in inhibition of Toll-like receptors (TLRs)-mediated innate immune response",
+    "subcellular_location": [
+      "Cell membrane"
+    ],
+    "diseases": [
+      ""
+    ],
+    "molecular_weight": 98337,
+    "length_aa": 894
+  },
+  "P60842": {
+    "uniprot_id": "P60842",
+    "protein_name": "Eukaryotic initiation factor 4A-I",
+    "gene_name": "EIF4A1",
+    "organism": "Homo sapiens",
+    "function": "ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome (PubMed:20156963). In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon. As a result, promotes cell proliferation and growth (PubMed:20156963)",
+    "subcellular_location": [
+      "Cytoplasm, perinuclear region",
+      "Cell membrane",
+      "Cytoplasm, Stress granule"
+    ],
+    "diseases": [],
+    "molecular_weight": 46154,
+    "length_aa": 406
+  },
+  "P62241": {
+    "uniprot_id": "P62241",
+    "protein_name": "Small ribosomal subunit protein eS8",
+    "gene_name": "RPS8",
+    "organism": "Homo sapiens",
+    "function": "Component of the small ribosomal subunit (PubMed:23636399). The ribosome is a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell (PubMed:23636399). Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted degradation of pre-ribosomal RNA by the RNA exosome (PubMed:34516797)",
+    "subcellular_location": [
+      "Cytoplasm",
+      "Membrane",
+      "Nucleus, nucleolus"
+    ],
+    "diseases": [],
+    "molecular_weight": 24205,
+    "length_aa": 208
+  },
+  "Q76PP9": {
+    "uniprot_id": "Q76PP9",
+    "protein_name": "Protein Tat",
+    "gene_name": "tat",
+    "organism": "Human immunodeficiency virus type 1",
+    "function": "Extracellular circulating Tat can be endocytosed by surrounding uninfected cells via the binding to several surface receptors such as CD26, CXCR4, heparan sulfate proteoglycans (HSPG) or LDLR. Neurons are rarely infected, but they internalize Tat via their LDLR. Through its interaction with nuclear HATs, Tat is potentially able to control the acetylation-dependent cellular gene expression. Modulates the expression of many cellular genes involved in cell survival, proliferation or in coding for cytokines or cytokine receptors. Tat plays a role in T-cell and neurons apoptosis. Tat induced neurotoxicity and apoptosis probably contribute to neuroAIDS. Circulating Tat also acts as a chemokine-like and/or growth factor-like molecule that binds to specific receptors on the surface of the cells, affecting many cellular pathways. In the vascular system, Tat binds to ITGAV/ITGB3 and ITGA5/ITGB1 integrins dimers at the surface of endothelial cells and competes with bFGF for heparin-binding sites, leading to an excess of soluble bFGF",
+    "subcellular_location": [
+      "Host nucleus, host nucleolus",
+      "Host cytoplasm",
+      "Secreted"
+    ],
+    "diseases": [],
+    "molecular_weight": 9784,
+    "length_aa": 86
+  },
+  "Q83371": {
+    "uniprot_id": "Q83371",
+    "protein_name": "Pepsin A",
+    "gene_name": "pol",
+    "organism": "Moloney murine leukemia virus",
+    "function": "Catalyzes viral DNA integration into the host chromosome, by performing a series of DNA cutting and joining reactions. This enzyme activity takes place after virion entry into a cell and reverse transcription of the RNA genome in dsDNA. The first step in the integration process is 3' processing. This step requires a complex comprising the viral genome, matrix protein and integrase. This complex is called the pre-integration complex (PIC). The integrase protein removes 2 nucleotides from each 3' end of the viral DNA, leaving recessed CA OH's at the 3' ends. In the second step that requires cell division, the PIC enters cell nucleus. In the third step, termed strand transfer, the integrase protein joins the previously processed 3' ends to the 5' ends of strands of target cellular DNA at the site of integration. The last step is viral DNA integration into host chromosome",
+    "subcellular_location": [
+      "Host cell membrane",
+      "Host cytoplasm",
+      "Host endosome, host multivesicular body",
+      "Host late endosome membrane",
+      "Virion"
+    ],
+    "diseases": [],
+    "molecular_weight": 63651,
+    "length_aa": 560
+  }
+}

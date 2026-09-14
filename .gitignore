@@ -1,6 +1,8 @@
 node_modules/
 dist/
 .DS_Store
+__pycache__/
+.claude/
 
 # Scraper resume-state (not a data product) and broken exports from the
 # same scraper run (only contain source/year columns — aptanexus_raw.jsonl

@@ -12,7 +12,7 @@ just the ones this pipeline folded itself) — see predict_structure_if_missing
 in merge_databases.py, now fixed for future re-runs.
 
 This script re-folds every DNA record already in
-src/data/aptascope_merged.json using ViennaRNA's actual DNA parameter set
+public/data/aptascope_merged.json using ViennaRNA's actual DNA parameter set
 (Mathews 2004) with wobble pairing disabled (noGU=1), overwrites
 predicted_mfe/mfe_structure/num_stems/num_loops, and regenerates
 dataset_stats.json. RNA records are untouched. Run this once; going
@@ -30,7 +30,7 @@ import RNA
 
 from merge_databases import compute_stats
 
-MERGED_PATH = Path("src/data/aptascope_merged.json")
+MERGED_PATH = Path("public/data/aptascope_merged.json")
 STATS_PATH = Path("src/data/dataset_stats.json")
 
 

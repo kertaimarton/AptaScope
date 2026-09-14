@@ -1,7 +1,7 @@
 """
 AptaScope v2 — Branch 3 build step.
 
-Reads src/data/aptascope_merged.json (13,306 records, already carries
+Reads public/data/aptascope_merged.json (13,306 records, already carries
 predicted_mfe/mfe_structure/num_stems/num_loops from the merge step — no
 folding needed here) and writes src/data/optimization_profiles.json: a
 per-target-type statistical profile of what distinguishes top-25%-by-affinity
@@ -18,7 +18,7 @@ import math
 from collections import Counter
 from pathlib import Path
 
-IN_PATH = Path("src/data/aptascope_merged.json")
+IN_PATH = Path("public/data/aptascope_merged.json")
 OUT_PATH = Path("src/data/optimization_profiles.json")
 
 # Relative-position bins (as a fraction of sequence length) rather than raw

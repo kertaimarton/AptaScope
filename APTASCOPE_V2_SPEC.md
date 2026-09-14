@@ -148,7 +148,7 @@ Write a Python script `merge_databases.py` that:
 python merge_databases.py \
   --aptanexus aptanexus_raw.jsonl \
   --aptadb aptadb_raw.json \
-  --output src/data/aptascope_merged.json
+  --output public/data/aptascope_merged.json
 ```
 
 Update the app to import from `aptascope_merged.json` instead of the current data file.
@@ -514,7 +514,7 @@ When starting a branch, tell Claude Code:
 
 ```
 Read APTASCOPE_V2_SPEC.md, Phase 0 and Branch [N].
-The merged data file is at src/data/aptascope_merged.json.
+The merged data file is at public/data/aptascope_merged.json (served as a static asset, fetched at runtime — not bundled).
 Build this branch as a new component and add it to the app navigation.
 ```
 

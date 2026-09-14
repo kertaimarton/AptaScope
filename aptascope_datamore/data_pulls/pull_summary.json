@@ -1,0 +1,18 @@
+{
+  "generated": "2026-09-14T17:24:49Z",
+  "source_counts": {
+    "ribocentre": 509,
+    "utexas": 1495,
+    "aptcancerdb": 1881,
+    "aptbacterialdb": 1936,
+    "aptagen": 972,
+    "rnaapt3d": 54
+  },
+  "combined_total": 5758,
+  "uniprot_enriched": 25,
+  "pdb_structures_found": 437,
+  "chembl_enriched": 1779,
+  "chembl_targets_total": 2023,
+  "chembl_unresolved": 24,
+  "chembl_unresolved_reason": "1-2 character codes (e.g. 'A1', 'H2') left over from Aptagen catalog scraping -- not real target names, same data-quality issue as the short_sequence quality_flag"
+}

@@ -1,0 +1,3935 @@
+{
+  "2M53": {
+    "pdb_id": "2M53",
+    "title": "G-rich VEGF aptamer with LNA modifications",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2013-02-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2M53"
+  },
+  "6GZR": {
+    "pdb_id": "6GZR",
+    "title": "Solution NMR structure of the tetramethylrhodamine (TMR) aptamer 3 in complex with 5-TAMRA",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2018-07-05T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6GZR"
+  },
+  "1Q8N": {
+    "pdb_id": "1Q8N",
+    "title": "Solution Structure of the Malachite Green RNA Binding Aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2003-08-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1Q8N"
+  },
+  "1RDE": {
+    "pdb_id": "1RDE",
+    "title": "NMR structure of the thrombin-binding DNA aptamer stabilized by Sr2+",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2003-11-05T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1RDE"
+  },
+  "7QB3": {
+    "pdb_id": "7QB3",
+    "title": "Solution structure of a lanthanide-binding DNA aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2021-11-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7QB3"
+  },
+  "9JA9": {
+    "pdb_id": "9JA9",
+    "title": "Crystal structure of theophylline aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.68,
+    "deposit_date": "2024-08-24T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9JA9"
+  },
+  "2AU4": {
+    "pdb_id": "2AU4",
+    "title": "Class I GTP aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2005-08-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2AU4"
+  },
+  "8IF5": {
+    "pdb_id": "8IF5",
+    "title": "AFB1-AF26 APTAMER COMPLEX",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2023-02-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8IF5"
+  },
+  "9JA7": {
+    "pdb_id": "9JA7",
+    "title": "Crystal structure of theophylline aptamer obtained in the presence of caffeine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.59,
+    "deposit_date": "2024-08-24T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9JA7"
+  },
+  "1NBK": {
+    "pdb_id": "1NBK",
+    "title": "The structure of RNA aptamer for HIV Tat complexed with two argininamide molecules",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2002-12-03T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1NBK"
+  },
+  "9DXL": {
+    "pdb_id": "9DXL",
+    "title": "RhoBAST RNA aptamer in complex with the SpyRho555 analogue, MaP555",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2024-10-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9DXL"
+  },
+  "1F1T": {
+    "pdb_id": "1F1T",
+    "title": "CRYSTAL STRUCTURE OF THE MALACHITE GREEN APTAMER COMPLEXED WITH TETRAMETHYL-ROSAMINE",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2000-05-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1F1T"
+  },
+  "4TS0": {
+    "pdb_id": "4TS0",
+    "title": "Crystal structure of the Spinach RNA aptamer in complex with DFHBI, barium ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2014-06-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4TS0"
+  },
+  "4TS2": {
+    "pdb_id": "4TS2",
+    "title": "Crystal structure of the Spinach RNA aptamer in complex with DFHBI, magnesium ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.884,
+    "deposit_date": "2014-06-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4TS2"
+  },
+  "7OA3": {
+    "pdb_id": "7OA3",
+    "title": "Crystal structure of Chili RNA aptamer in complex with DMHBO+ (Iridium hexammine co-crystallized form)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2021-04-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7OA3"
+  },
+  "7KVT": {
+    "pdb_id": "7KVT",
+    "title": "Crystal structure of Squash RNA aptamer in complex with DFHBI-1T with iridium (III) ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.73,
+    "deposit_date": "2020-11-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7KVT"
+  },
+  "8U60": {
+    "pdb_id": "8U60",
+    "title": "Structure of Mango II variant2 aptamer bound to T01-6A",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.3,
+    "deposit_date": "2023-09-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U60"
+  },
+  "7OAV": {
+    "pdb_id": "7OAV",
+    "title": "Crystal structure of Chili RNA aptamer in complex with DMHBO+ (Iridium III hexammine soaking crystal form)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.99,
+    "deposit_date": "2021-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7OAV"
+  },
+  "5OB3": {
+    "pdb_id": "5OB3",
+    "title": "iSpinach aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.004,
+    "deposit_date": "2017-06-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5OB3"
+  },
+  "1AW4": {
+    "pdb_id": "1AW4",
+    "title": "STRUCTURAL BASIS OF DNA FOLDING AND RECOGNITION IN AMP-DNA APTAMER COMPLEX, NMR, 7 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1997-10-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1AW4"
+  },
+  "7KVV": {
+    "pdb_id": "7KVV",
+    "title": "Crystal structure of Squash RNA aptamer in complex with DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.85,
+    "deposit_date": "2020-11-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7KVV"
+  },
+  "1ET4": {
+    "pdb_id": "1ET4",
+    "title": "CRYSTAL STRUCTURE OF A VITAMIN B12 BINDING RNA APTAMER WITH LIGAND AT 2.3 A",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2000-04-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1ET4"
+  },
+  "7KVU": {
+    "pdb_id": "7KVU",
+    "title": "Crystal structure of Squash RNA aptamer in complex with DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.68,
+    "deposit_date": "2020-11-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7KVU"
+  },
+  "7OAW": {
+    "pdb_id": "7OAW",
+    "title": "Crystal structure of the Chili RNA aptamer in complex with DMHBI+",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2021-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7OAW"
+  },
+  "6GZK": {
+    "pdb_id": "6GZK",
+    "title": "Solution NMR structure of the tetramethylrhodamine (TMR) aptamer 3 in complex with 5-TAMRA",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2018-07-04T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6GZK"
+  },
+  "12CI": {
+    "pdb_id": "12CI",
+    "title": "Structure of dopamine-binding aptamer, DGR-1A, in complex with dopamine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.59,
+    "deposit_date": "2026-03-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/12CI"
+  },
+  "1AM0": {
+    "pdb_id": "1AM0",
+    "title": "AMP RNA APTAMER COMPLEX, NMR, 8 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1997-06-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1AM0"
+  },
+  "6E8S": {
+    "pdb_id": "6E8S",
+    "title": "Structure of the iMango-III aptamer bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.35,
+    "deposit_date": "2018-07-31T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E8S"
+  },
+  "7W9N": {
+    "pdb_id": "7W9N",
+    "title": "THE STRUCTURE OF OBA33-OTA COMPLEX",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2021-12-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7W9N"
+  },
+  "2RQJ": {
+    "pdb_id": "2RQJ",
+    "title": "Quadruplex structure of an RNA aptamer against bovine prion protein",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2009-07-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2RQJ"
+  },
+  "148D": {
+    "pdb_id": "148D",
+    "title": "THREE-DIMENSIONAL SOLUTION STRUCTURE OF THE THROMBIN BINDING DNA APTAMER D(GGTTGGTGTGGTTGG)",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1993-11-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/148D"
+  },
+  "2OOM": {
+    "pdb_id": "2OOM",
+    "title": "NMR structure of a kissing complex formed between the TAR RNA element of HIV-1 and a LNA/RNA aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2007-01-26T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2OOM"
+  },
+  "3Q51": {
+    "pdb_id": "3Q51",
+    "title": "Structural analysis of a class I PreQ1 riboswitch aptamer in the metabolite-free state.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.85,
+    "deposit_date": "2010-12-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3Q51"
+  },
+  "7ZJ5": {
+    "pdb_id": "7ZJ5",
+    "title": "Unbound state of a brocolli-pepper aptamer FRET tile.",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.55,
+    "deposit_date": "2022-04-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZJ5"
+  },
+  "9HRF": {
+    "pdb_id": "9HRF",
+    "title": "Crystal structure of the Class V (UU) GTP aptamer variant in complex with GTP",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.6,
+    "deposit_date": "2024-12-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9HRF"
+  },
+  "7OAX": {
+    "pdb_id": "7OAX",
+    "title": "Crystal structure of the Chili RNA aptamer in complex with DMHBO+",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.24,
+    "deposit_date": "2021-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7OAX"
+  },
+  "3Q50": {
+    "pdb_id": "3Q50",
+    "title": "Structural analysis of a class I PreQ1 riboswitch aptamer in the metabolite-bound state",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.75,
+    "deposit_date": "2010-12-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3Q50"
+  },
+  "1DDY": {
+    "pdb_id": "1DDY",
+    "title": "MOLECULAR RECOGNITION BY THE VITAMIN B12 RNA APTAMER",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "1999-11-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1DDY"
+  },
+  "1RAW": {
+    "pdb_id": "1RAW",
+    "title": "ATP BINDING RNA APTAMER IN COMPLEX WITH AMP, NMR, 10 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-07-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1RAW"
+  },
+  "9HRD": {
+    "pdb_id": "9HRD",
+    "title": "Crystal structure of the Class V GTP aptamer in complex with GTP",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2024-12-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9HRD"
+  },
+  "9HRG": {
+    "pdb_id": "9HRG",
+    "title": "Crystal structure of the Class V (G61A) GTP aptamer variant in complex with GTP",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.05,
+    "deposit_date": "2024-12-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9HRG"
+  },
+  "5KPY": {
+    "pdb_id": "5KPY",
+    "title": "Structure of a 5-hydroxytryptophan aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2016-07-05T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5KPY"
+  },
+  "6E8T": {
+    "pdb_id": "6E8T",
+    "title": "Structure of the Mango-III (A10U) aptamer bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2018-07-31T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E8T"
+  },
+  "8FHV": {
+    "pdb_id": "8FHV",
+    "title": "Structure of Lettuce aptamer bound to DFHBI-1T with thallium I ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FHV"
+  },
+  "8FHX": {
+    "pdb_id": "8FHX",
+    "title": "Structure of Lettuce aptamer bound to DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FHX"
+  },
+  "8FHZ": {
+    "pdb_id": "8FHZ",
+    "title": "Structure of Lettuce aptamer bound to DFHO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FHZ"
+  },
+  "1DB6": {
+    "pdb_id": "1DB6",
+    "title": "SOLUTION STRUCTURE OF THE DNA APTAMER 5'-CGACCAACGTGTCGCCTGGTCG-3' COMPLEXED WITH ARGININAMIDE",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-11-02T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1DB6"
+  },
+  "2PN9": {
+    "pdb_id": "2PN9",
+    "title": "NMR structure of a kissing complex formed between the TAR RNA element of HIV-1 and a LNA modified aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2007-04-24T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2PN9"
+  },
+  "8Y0F": {
+    "pdb_id": "8Y0F",
+    "title": "Solution NMR structure of the PTK7-binding DNA aptamer sgc8c",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2024-01-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8Y0F"
+  },
+  "7ZJ4": {
+    "pdb_id": "7ZJ4",
+    "title": "Ligand bound state of a brocolli-pepper aptamer FRET tile",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.43,
+    "deposit_date": "2022-04-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZJ4"
+  },
+  "2L5K": {
+    "pdb_id": "2L5K",
+    "title": "Solution structure of truncated 23-mer DNA MUC1 aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2010-11-02T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2L5K"
+  },
+  "8S4N": {
+    "pdb_id": "8S4N",
+    "title": "An i-motif/B-DNA aptamer with high affinity for influenza A virus",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2024-02-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8S4N"
+  },
+  "6Q57": {
+    "pdb_id": "6Q57",
+    "title": "X-ray crystal structure of the tetrahydrofolate riboswitch aptamer bound to 5-deazatetrahydropterin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.72,
+    "deposit_date": "2018-12-07T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6Q57"
+  },
+  "8F4O": {
+    "pdb_id": "8F4O",
+    "title": "Apo structure of the TPP riboswitch aptamer domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2022-11-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8F4O"
+  },
+  "12CJ": {
+    "pdb_id": "12CJ",
+    "title": "Apo structure of dopamine-binding aptamer, DGR-1B",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.93,
+    "deposit_date": "2026-03-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/12CJ"
+  },
+  "6E81": {
+    "pdb_id": "6E81",
+    "title": "Crystal structure of the Corn aptamer in complex with ThT",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.721,
+    "deposit_date": "2018-07-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E81"
+  },
+  "7E5P": {
+    "pdb_id": "7E5P",
+    "title": "Aptamer enhancing peroxidase activity of myoglobin",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2021-02-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7E5P"
+  },
+  "8GZJ": {
+    "pdb_id": "8GZJ",
+    "title": "Crystal structure of Cd2+-bound DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.093,
+    "deposit_date": "2022-09-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8GZJ"
+  },
+  "8GZK": {
+    "pdb_id": "8GZK",
+    "title": "Crystal structure of Cd2+-bound DNA aptamer T10A mutant",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.94,
+    "deposit_date": "2022-09-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8GZK"
+  },
+  "8GZL": {
+    "pdb_id": "8GZL",
+    "title": "Crystal structure of Cd2+-bound DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2022-09-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8GZL"
+  },
+  "8GZM": {
+    "pdb_id": "8GZM",
+    "title": "Crystal structure of Cd2+-bound DNA aptamer T22C mutant",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.55,
+    "deposit_date": "2022-09-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8GZM"
+  },
+  "9BUN": {
+    "pdb_id": "9BUN",
+    "title": "RhoBAST aptamer RNA in complex with 5(6)-carboxytetramethylrhodamine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2024-05-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9BUN"
+  },
+  "9L8F": {
+    "pdb_id": "9L8F",
+    "title": "Crystal structure of RhoBAST aptamer in complex with TMR",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.51,
+    "deposit_date": "2024-12-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9L8F"
+  },
+  "2JWV": {
+    "pdb_id": "2JWV",
+    "title": "Structure of a high affinity anti-NFkB RNA aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2007-10-25T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2JWV"
+  },
+  "484D": {
+    "pdb_id": "484D",
+    "title": "SOLUTION STRUCTURE OF HIV-1 REV PEPTIDE-RNA APTAMER COMPLEX",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-08-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/484D"
+  },
+  "6E8U": {
+    "pdb_id": "6E8U",
+    "title": "Structure of the Mango-III (A10U) aptamer bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.55,
+    "deposit_date": "2018-07-31T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E8U"
+  },
+  "6UP0": {
+    "pdb_id": "6UP0",
+    "title": "Structure of the Mango-III fluorescent aptamer bound to YO3-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2019-10-16T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6UP0"
+  },
+  "9VMZ": {
+    "pdb_id": "9VMZ",
+    "title": "Crystal structure of Broccoli aptamer in with BI",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.44,
+    "deposit_date": "2025-06-29T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9VMZ"
+  },
+  "2RN1": {
+    "pdb_id": "2RN1",
+    "title": "Liquid crystal solution structure of the kissing complex formed by the apical loop of the HIV TAR RNA and a high affinity RNA aptamer optimized by SELEX",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2007-12-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2RN1"
+  },
+  "4FEO": {
+    "pdb_id": "4FEO",
+    "title": "Crystal structure of the AU25A/A46G/C74U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with 2,6-diaminopurine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.6,
+    "deposit_date": "2012-05-30T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FEO"
+  },
+  "4FEP": {
+    "pdb_id": "4FEP",
+    "title": "Crystal structure of the A24U/U25A/A46G/C74U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with 2,6-diaminopurine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.65,
+    "deposit_date": "2012-05-30T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FEP"
+  },
+  "6E82": {
+    "pdb_id": "6E82",
+    "title": "Crystal structure of the Corn aptamer mutant A14U in complex with ThT",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.101,
+    "deposit_date": "2018-07-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E82"
+  },
+  "6E84": {
+    "pdb_id": "6E84",
+    "title": "Crystal structure of the Corn aptamer in complex with TO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.901,
+    "deposit_date": "2018-07-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E84"
+  },
+  "7EOH": {
+    "pdb_id": "7EOH",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.637,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOH"
+  },
+  "8K0V": {
+    "pdb_id": "8K0V",
+    "title": "Crystal structure of theophylline DNA aptamer bound to 3-methylxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.67,
+    "deposit_date": "2023-07-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K0V"
+  },
+  "9I0V": {
+    "pdb_id": "9I0V",
+    "title": "Crystal structure of DasR in complex with a synthetic DasR-binding RNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.02,
+    "deposit_date": "2025-01-15T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9I0V"
+  },
+  "1NEM": {
+    "pdb_id": "1NEM",
+    "title": "Saccharide-RNA recognition in the neomycin B / RNA aptamer complex",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-03-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1NEM"
+  },
+  "2ARG": {
+    "pdb_id": "2ARG",
+    "title": "FORMATION OF AN AMINO ACID BINDING POCKET THROUGH ADAPTIVE ZIPPERING-UP OF A LARGE DNA HAIRPIN LOOP, NMR, 9 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1998-08-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2ARG"
+  },
+  "4FRG": {
+    "pdb_id": "4FRG",
+    "title": "Crystal structure of the cobalamin riboswitch aptamer domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2012-06-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FRG"
+  },
+  "4LX5": {
+    "pdb_id": "4LX5",
+    "title": "X-ray crystal structure of the M6\" riboswitch aptamer bound to pyrimido[4,5-d]pyrimidine-2,4-diamine (PPDA)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.13,
+    "deposit_date": "2013-07-29T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LX5"
+  },
+  "4LX6": {
+    "pdb_id": "4LX6",
+    "title": "X-ray crystal structure of the M6C\" riboswitch aptamer bound to 2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one (PPAO)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.15,
+    "deposit_date": "2013-07-29T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LX6"
+  },
+  "8U5R": {
+    "pdb_id": "8U5R",
+    "title": "Structure of Mango II variant aptamer bound to T01-6A",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2023-09-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5R"
+  },
+  "7EOI": {
+    "pdb_id": "7EOI",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC, manganese soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.92,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOI"
+  },
+  "7EOJ": {
+    "pdb_id": "7EOJ",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC, cesium soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.77,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOJ"
+  },
+  "8FI1": {
+    "pdb_id": "8FI1",
+    "title": "Structure of Lettuce C20G bound to DFHO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FI1"
+  },
+  "8FI2": {
+    "pdb_id": "8FI2",
+    "title": "Structure of Lettuce C20T bound to DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FI2"
+  },
+  "8FI7": {
+    "pdb_id": "8FI7",
+    "title": "Structure of Lettuce C20T bound to DFHO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FI7"
+  },
+  "8K0U": {
+    "pdb_id": "8K0U",
+    "title": "Crystal structure of theophylline DNA aptamer bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.52,
+    "deposit_date": "2023-07-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K0U"
+  },
+  "8U5K": {
+    "pdb_id": "8U5K",
+    "title": "Structure of Mango II aptamer bound to T01-6A",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2023-09-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5K"
+  },
+  "5LWJ": {
+    "pdb_id": "5LWJ",
+    "title": "Solution NMR structure of the GTP binding Class II RNA aptamer-ligand-complex containing a protonated adenine nucleotide with a highly shifted pKa.",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2016-09-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5LWJ"
+  },
+  "6C63": {
+    "pdb_id": "6C63",
+    "title": "Crystal Structure of the Mango-II Fluorescent Aptamer Bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.90002801531,
+    "deposit_date": "2018-01-17T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6C63"
+  },
+  "6C64": {
+    "pdb_id": "6C64",
+    "title": "Crystal Structure of the Mango-II Fluorescent Aptamer Bound to TO3-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.00014879601,
+    "deposit_date": "2018-01-17T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6C64"
+  },
+  "6C65": {
+    "pdb_id": "6C65",
+    "title": "Crystal Structure of the Mango-II-A22U Fluorescent Aptamer Bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8000516274,
+    "deposit_date": "2018-01-17T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6C65"
+  },
+  "6PQ7": {
+    "pdb_id": "6PQ7",
+    "title": "Structure of the iMango-III fluorescent aptamer at room temperature.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2019-07-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6PQ7"
+  },
+  "7KD1": {
+    "pdb_id": "7KD1",
+    "title": "Apo structure of the THF riboswitch aptamer domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2020-10-07T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7KD1"
+  },
+  "8FI0": {
+    "pdb_id": "8FI0",
+    "title": "Structure of Lettuce aptamer bound to DFAME",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FI0"
+  },
+  "8FI8": {
+    "pdb_id": "8FI8",
+    "title": "Structure of Lettuce C20T bound to DFAME",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2022-12-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FI8"
+  },
+  "9HIO": {
+    "pdb_id": "9HIO",
+    "title": "RKEC1 DNA aptamer bound to dopamine",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2024-11-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9HIO"
+  },
+  "9U3I": {
+    "pdb_id": "9U3I",
+    "title": "Crystal structure of a phenylalanine-modifi ed thrombin-binding DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.2,
+    "deposit_date": "2025-03-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9U3I"
+  },
+  "2IDN": {
+    "pdb_id": "2IDN",
+    "title": "NMR structure of a new modified Thrombin Binding Aptamer containing a 5'-5' inversion of polarity site",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2006-09-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2IDN"
+  },
+  "9NDD": {
+    "pdb_id": "9NDD",
+    "title": "RNA scaffold attached to 8-oxoguanine riboswitch aptamer, combined core plus aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.67,
+    "deposit_date": "2025-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NDD"
+  },
+  "4FE5": {
+    "pdb_id": "4FE5",
+    "title": "Crystal structure of the xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.32,
+    "deposit_date": "2012-05-29T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FE5"
+  },
+  "7EOL": {
+    "pdb_id": "7EOL",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC497",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.309,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOL"
+  },
+  "7EOM": {
+    "pdb_id": "7EOM",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC508",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.703,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOM"
+  },
+  "7EON": {
+    "pdb_id": "7EON",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC514",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EON"
+  },
+  "7EOO": {
+    "pdb_id": "7EOO",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC525",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.23,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOO"
+  },
+  "1EXY": {
+    "pdb_id": "1EXY",
+    "title": "SOLUTION STRUCTURE OF HTLV-1 PEPTIDE BOUND TO ITS RNA APTAMER TARGET",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2000-05-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1EXY"
+  },
+  "4FEJ": {
+    "pdb_id": "4FEJ",
+    "title": "Crystal structure of the A24U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.5,
+    "deposit_date": "2012-05-30T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FEJ"
+  },
+  "6E80": {
+    "pdb_id": "6E80",
+    "title": "Crystal structure of the Corn aptamer in unliganded state",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.901,
+    "deposit_date": "2018-07-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6E80"
+  },
+  "7EOG": {
+    "pdb_id": "7EOG",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC, iridium hexammine soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.5,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOG"
+  },
+  "7EOK": {
+    "pdb_id": "7EOK",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC485",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOK"
+  },
+  "7EOP": {
+    "pdb_id": "7EOP",
+    "title": "Crystal structure of the Pepper aptamer in complex with HBC620",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.8,
+    "deposit_date": "2021-04-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EOP"
+  },
+  "8U5P": {
+    "pdb_id": "8U5P",
+    "title": "Structure of Mango II aptamer bound to T01-6A-B",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2023-09-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5P"
+  },
+  "4PDB": {
+    "pdb_id": "4PDB",
+    "title": "CRYSTAL STRUCTURE OF BACILLUS ANTHRACIS RIBOSOMAL PROTEIN S8 IN COMPLEX WITH AN RNA APTAMER",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2014-04-17T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4PDB"
+  },
+  "2QBZ": {
+    "pdb_id": "2QBZ",
+    "title": "Structure of the M-Box Riboswitch Aptamer Domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2007-06-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2QBZ"
+  },
+  "8TVZ": {
+    "pdb_id": "8TVZ",
+    "title": "RNA origami 3-helix tile Traptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 5.94,
+    "deposit_date": "2023-08-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8TVZ"
+  },
+  "4FEL": {
+    "pdb_id": "4FEL",
+    "title": "Crystal structure of the U25A/A46G mutant of the xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.6,
+    "deposit_date": "2012-05-30T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FEL"
+  },
+  "4FEN": {
+    "pdb_id": "4FEN",
+    "title": "Crystal structure of the A24U/U25A/A46G mutant xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.35,
+    "deposit_date": "2012-05-30T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FEN"
+  },
+  "6VWT": {
+    "pdb_id": "6VWT",
+    "title": "Transitional unit cell 1 of adenine riboswitch aptamer crystal phase transition upon ligand binding",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.03,
+    "deposit_date": "2020-02-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6VWT"
+  },
+  "8U5T": {
+    "pdb_id": "8U5T",
+    "title": "Structure of Mango II variant aptamer bound to T01-6A-B",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2023-09-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5T"
+  },
+  "8U5Z": {
+    "pdb_id": "8U5Z",
+    "title": "Structure of Mango II variant aptamer bound to T01-7M-B",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2023-09-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5Z"
+  },
+  "9KTJ": {
+    "pdb_id": "9KTJ",
+    "title": "Solution NMR structures of ATP-binding DNA aptamer in complex with ATP",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2024-12-02T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9KTJ"
+  },
+  "4FRN": {
+    "pdb_id": "4FRN",
+    "title": "Crystal structure of the cobalamin riboswitch regulatory element",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.43,
+    "deposit_date": "2012-06-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4FRN"
+  },
+  "6WJS": {
+    "pdb_id": "6WJS",
+    "title": "Apo structure of the FMN riboswitch aptamer domain in the presence of phosphate",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.8,
+    "deposit_date": "2020-04-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WJS"
+  },
+  "3HXO": {
+    "pdb_id": "3HXO",
+    "title": "Crystal Structure of Von Willebrand Factor (VWF) A1 Domain in Complex with DNA Aptamer ARC1172, an Inhibitor of VWF-Platelet Binding",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.4,
+    "deposit_date": "2009-06-21T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3HXO"
+  },
+  "3HXQ": {
+    "pdb_id": "3HXQ",
+    "title": "Crystal Structure of Von Willebrand Factor (VWF) A1 Domain in Complex with DNA Aptamer ARC1172, an Inhibitor of VWF-Platelet Binding",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.694,
+    "deposit_date": "2009-06-21T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3HXQ"
+  },
+  "6UBU": {
+    "pdb_id": "6UBU",
+    "title": "1.60 A resolution structure of the guanine riboswitch bound to guanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.6,
+    "deposit_date": "2019-09-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6UBU"
+  },
+  "6VWV": {
+    "pdb_id": "6VWV",
+    "title": "Transitional unit cell 2 of adenine riboswitch aptamer crystal phase transition upon ligand binding",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2020-02-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6VWV"
+  },
+  "7V3T": {
+    "pdb_id": "7V3T",
+    "title": "Solution structure of thrombin binding aptamer G-quadruplex bound a self-adaptive small molecule with rotated ligands",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2021-08-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7V3T"
+  },
+  "8ZAS": {
+    "pdb_id": "8ZAS",
+    "title": "Crystal structure of Adenine DNA aptamer bound with adenine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.54,
+    "deposit_date": "2024-04-25T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8ZAS"
+  },
+  "6J2W": {
+    "pdb_id": "6J2W",
+    "title": "The structure of OBA3-OTA complex",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2019-01-03T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6J2W"
+  },
+  "6V9B": {
+    "pdb_id": "6V9B",
+    "title": "Co-crystal structure of the fluorogenic Mango-IV homodimer bound to TO1-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.4,
+    "deposit_date": "2019-12-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6V9B"
+  },
+  "6SY4": {
+    "pdb_id": "6SY4",
+    "title": "TetR in complex with the TetR-binding RNA-aptamer K1",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.695,
+    "deposit_date": "2019-09-27T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6SY4"
+  },
+  "6TXR": {
+    "pdb_id": "6TXR",
+    "title": "Structural insights into cubane-modified aptamer recognition of a malaria biomarker",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2020-01-14T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6TXR"
+  },
+  "1TOB": {
+    "pdb_id": "1TOB",
+    "title": "SACCHARIDE-RNA RECOGNITION IN AN AMINOGLYCOSIDE ANTIBIOTIC-RNA APTAMER COMPLEX, NMR, 7 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-12-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1TOB"
+  },
+  "3GCA": {
+    "pdb_id": "3GCA",
+    "title": "The structural basis for recognition of the preQ0 metabolite by an unusually small riboswitch aptamer domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.75,
+    "deposit_date": "2009-02-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3GCA"
+  },
+  "6WJR": {
+    "pdb_id": "6WJR",
+    "title": "Apo structure of the FMN riboswitch aptamer domain in the presence of sulfate",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2020-04-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WJR"
+  },
+  "8U5J": {
+    "pdb_id": "8U5J",
+    "title": "Structure of Mango III variant aptamer bound to T01-07M-B",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.7,
+    "deposit_date": "2023-09-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8U5J"
+  },
+  "9EHB": {
+    "pdb_id": "9EHB",
+    "title": "Structure of short Lettuce aptamer (C14T variant) bound with TO1-biotin.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.03,
+    "deposit_date": "2024-11-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EHB"
+  },
+  "9EHC": {
+    "pdb_id": "9EHC",
+    "title": "Structure of short Lettuce aptamer bound to TO1-3PEG-Biotin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.5,
+    "deposit_date": "2024-11-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EHC"
+  },
+  "9EHE": {
+    "pdb_id": "9EHE",
+    "title": "Structure of short Lettuce aptamer (A5T variant) bound with TO1-biotin.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.63,
+    "deposit_date": "2024-11-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EHE"
+  },
+  "9LK0": {
+    "pdb_id": "9LK0",
+    "title": "Crystal structure of MlaC protein with s6267 Aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.78,
+    "deposit_date": "2025-01-15T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9LK0"
+  },
+  "2TOB": {
+    "pdb_id": "2TOB",
+    "title": "SOLUTION STRUCTURE OF THE TOBRAMYCIN-RNA APTAMER COMPLEX, NMR, 13 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1998-06-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2TOB"
+  },
+  "8EYW": {
+    "pdb_id": "8EYW",
+    "title": "Beetroot dimer bound to ThT",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2022-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EYW"
+  },
+  "8F0N": {
+    "pdb_id": "8F0N",
+    "title": "Wobble Beetroot (A16U-U38G) dimer bound to DFHO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.85,
+    "deposit_date": "2022-11-03T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8F0N"
+  },
+  "2LUN": {
+    "pdb_id": "2LUN",
+    "title": "RNA Aptamer for B. anthracis Ribosomal Protein S8",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2012-06-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2LUN"
+  },
+  "1ULL": {
+    "pdb_id": "1ULL",
+    "title": "RNA APTAMER COMPLEXED WITH HIV-1 REV PEPTIDE, NMR, 7 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-11-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1ULL"
+  },
+  "7RWR": {
+    "pdb_id": "7RWR",
+    "title": "An RNA aptamer that decreases flavin redox potential",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2021-08-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7RWR"
+  },
+  "8K0T": {
+    "pdb_id": "8K0T",
+    "title": "Crystal structure of theophylline DNA aptamer bound to theophylline",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2023-07-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K0T"
+  },
+  "8K0W": {
+    "pdb_id": "8K0W",
+    "title": "Crystal structure of theophylline DNA aptamer bound to theophylline, soaked in Selenourea",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.42,
+    "deposit_date": "2023-07-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K0W"
+  },
+  "9GXH": {
+    "pdb_id": "9GXH",
+    "title": "Nanobody bound to TBA G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2024-09-30T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9GXH"
+  },
+  "8EYU": {
+    "pdb_id": "8EYU",
+    "title": "Structure of Beetroot dimer bound to DFAME",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.95,
+    "deposit_date": "2022-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EYU"
+  },
+  "8EYV": {
+    "pdb_id": "8EYV",
+    "title": "Structure of Beetroot dimer bound to DFHO",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.55,
+    "deposit_date": "2022-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EYV"
+  },
+  "9NDX": {
+    "pdb_id": "9NDX",
+    "title": "Scaffold attached to quinine-I aptamer (Tonic) refinement of aptamer and core",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.94,
+    "deposit_date": "2025-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NDX"
+  },
+  "3EGZ": {
+    "pdb_id": "3EGZ",
+    "title": "Crystal structure of an in vitro evolved tetracycline aptamer and artificial riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2008-09-11T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3EGZ"
+  },
+  "6DB9": {
+    "pdb_id": "6DB9",
+    "title": "Structural basis for promiscuous binding and activation of fluorogenic dyes by DIR2s RNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.025,
+    "deposit_date": "2018-05-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6DB9"
+  },
+  "9RTD": {
+    "pdb_id": "9RTD",
+    "title": "Crystal structure of DNA aptamer C8N5t in complex with Plasmodium falciparum lactate dehydrogenase",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2025-07-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9RTD"
+  },
+  "3ZH2": {
+    "pdb_id": "3ZH2",
+    "title": "Structure of Plasmodium falciparum lactate dehydrogenase in complex with a DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2012-12-20T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3ZH2"
+  },
+  "1XWP": {
+    "pdb_id": "1XWP",
+    "title": "Solution structure of AUCGCA loop",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2004-11-02T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1XWP"
+  },
+  "1XWU": {
+    "pdb_id": "1XWU",
+    "title": "Solution structure of ACAUAGA loop",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2004-11-02T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1XWU"
+  },
+  "5HTO": {
+    "pdb_id": "5HTO",
+    "title": "Crystal structure of Plasmodium Vivax LDH in complex with a DNA aptamer called pL1 (tetrameric LDH in an asymmetric unit)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2016-01-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HTO"
+  },
+  "1KOC": {
+    "pdb_id": "1KOC",
+    "title": "RNA APTAMER COMPLEXED WITH ARGININE, NMR",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-03-28T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1KOC"
+  },
+  "9NDV": {
+    "pdb_id": "9NDV",
+    "title": "Scaffold attached to quinine-I aptamer (Tonic) local refinement of aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.92,
+    "deposit_date": "2025-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NDV"
+  },
+  "2L1V": {
+    "pdb_id": "2L1V",
+    "title": "Solution structure of a preQ1 riboswitch (Class I) aptamer bound to preQ1",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2010-08-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2L1V"
+  },
+  "3IQP": {
+    "pdb_id": "3IQP",
+    "title": "SAM-I riboswitch from T. tencongensis variant A94G apo form",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2009-08-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3IQP"
+  },
+  "6DB8": {
+    "pdb_id": "6DB8",
+    "title": "Structural basis for promiscuous binding and activation of fluorogenic dyes by DIR2s RNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.86541345549,
+    "deposit_date": "2018-05-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6DB8"
+  },
+  "6K84": {
+    "pdb_id": "6K84",
+    "title": "Structure of anti-prion RNA aptamer",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2019-06-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6K84"
+  },
+  "4L81": {
+    "pdb_id": "4L81",
+    "title": "Structure of the SAM-I/IV riboswitch (env87(deltaU92, deltaG93))",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2013-06-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4L81"
+  },
+  "5E54": {
+    "pdb_id": "5E54",
+    "title": "Two apo structures of the adenine riboswitch aptamer domain determined using an X-ray free electron laser",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2015-10-07T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5E54"
+  },
+  "9NDW": {
+    "pdb_id": "9NDW",
+    "title": "Scaffold attached to quinine-I aptamer (Tonic) local refinement of core",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.71,
+    "deposit_date": "2025-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NDW"
+  },
+  "5SWE": {
+    "pdb_id": "5SWE",
+    "title": "Ligand-bound structure of adenine riboswitch aptamer domain converted in crystal from its ligand-free state using ligand mixing serial femtosecond crystallography",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2016-08-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5SWE"
+  },
+  "2RRC": {
+    "pdb_id": "2RRC",
+    "title": "Solution Structure of RNA aptamer against AML1 Runt domain",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2010-06-23T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2RRC"
+  },
+  "4M6D": {
+    "pdb_id": "4M6D",
+    "title": "Crystal structure of the aptamer minF-lysozyme complex.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.68,
+    "deposit_date": "2013-08-09T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4M6D"
+  },
+  "5HRU": {
+    "pdb_id": "5HRU",
+    "title": "Crystal structure of Plasmodium vivax LDH in complex with a DNA aptamer called pL1",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.71,
+    "deposit_date": "2016-01-24T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HRU"
+  },
+  "9MFH": {
+    "pdb_id": "9MFH",
+    "title": "env2 cobalamin riboswitch aptamer domain in the apo state",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2024-12-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9MFH"
+  },
+  "1FMN": {
+    "pdb_id": "1FMN",
+    "title": "SOLUTION STRUCTURE OF FMN-RNA APTAMER COMPLEX, NMR, 5 STRUCTURES",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1995-12-04T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1FMN"
+  },
+  "5SWD": {
+    "pdb_id": "5SWD",
+    "title": "Structure of the adenine riboswitch aptamer domain in an intermediate-bound state",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2016-08-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5SWD"
+  },
+  "6RTI": {
+    "pdb_id": "6RTI",
+    "title": "X-ray structure of human glutamate carboxypeptidase II (GCPII) in complex with aptamer A9g",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2019-05-24T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6RTI"
+  },
+  "4Q9Q": {
+    "pdb_id": "4Q9Q",
+    "title": "Crystal structure of an RNA aptamer bound to bromo-ligand analog in complex with Fab",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.45,
+    "deposit_date": "2014-05-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4Q9Q"
+  },
+  "4Q9R": {
+    "pdb_id": "4Q9R",
+    "title": "Crystal structure of an RNA aptamer bound to trifluoroethyl-ligand analog in complex with Fab",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.12,
+    "deposit_date": "2014-05-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4Q9R"
+  },
+  "1EXD": {
+    "pdb_id": "1EXD",
+    "title": "CRYSTAL STRUCTURE OF A TIGHT-BINDING GLUTAMINE TRNA BOUND TO GLUTAMINE AMINOACYL TRNA SYNTHETASE",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2000-05-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1EXD"
+  },
+  "4WB2": {
+    "pdb_id": "4WB2",
+    "title": "Crystal structure of the mirror-image L-RNA/L-DNA aptamer NOX-D20 in complex with mouse C5a complement anaphylatoxin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.8,
+    "deposit_date": "2014-09-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4WB2"
+  },
+  "4WB3": {
+    "pdb_id": "4WB3",
+    "title": "Crystal structure of the mirror-image L-RNA/L-DNA aptamer NOX-D20 in complex with mouse C5a-desArg complement anaphylatoxin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2014-09-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4WB3"
+  },
+  "8D5O": {
+    "pdb_id": "8D5O",
+    "title": "Crystal structure of theophylline aptamer in complex with TAL4",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2022-06-05T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D5O"
+  },
+  "2RSK": {
+    "pdb_id": "2RSK",
+    "title": "RNA aptamer against prion protein in complex with the partial binding peptide",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2012-03-08T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2RSK"
+  },
+  "2RU7": {
+    "pdb_id": "2RU7",
+    "title": "Refined structure of RNA aptamer in complex with the partial binding peptide of prion protein",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2013-12-24T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2RU7"
+  },
+  "6MSF": {
+    "pdb_id": "6MSF",
+    "title": "F6 APTAMER MS2 COAT PROTEIN COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "1998-01-06T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6MSF"
+  },
+  "7SZU": {
+    "pdb_id": "7SZU",
+    "title": "Crystal structure of Pepper RNA aptamer in complex with HBC ligand and Fab BL3-6",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.24,
+    "deposit_date": "2021-11-29T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7SZU"
+  },
+  "7U0Y": {
+    "pdb_id": "7U0Y",
+    "title": "Crystal structure of Pepper RNA aptamer in complex with HBC599 ligand and Fab BL3-6",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.66,
+    "deposit_date": "2022-02-19T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7U0Y"
+  },
+  "5BJO": {
+    "pdb_id": "5BJO",
+    "title": "Crystal structure of the Corn RNA aptamer in complex with DFHO, site-specific 5-iodo-U",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.35,
+    "deposit_date": "2016-08-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5BJO"
+  },
+  "6P2H": {
+    "pdb_id": "6P2H",
+    "title": "Structural basis for 2'-deoxyguanosine recognition by the 2'-dG-II class of riboswitches",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.803,
+    "deposit_date": "2019-05-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6P2H"
+  },
+  "7X7G": {
+    "pdb_id": "7X7G",
+    "title": "Crystal structure of a dimeric interlocked parallel G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.19,
+    "deposit_date": "2022-03-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7X7G"
+  },
+  "7XDH": {
+    "pdb_id": "7XDH",
+    "title": "Crystal structure of a dimeric interlocked parallel G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.83,
+    "deposit_date": "2022-03-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7XDH"
+  },
+  "7XHD": {
+    "pdb_id": "7XHD",
+    "title": "Crystal structure of a dimeric interlocked parallel G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.66,
+    "deposit_date": "2022-04-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7XHD"
+  },
+  "7XIE": {
+    "pdb_id": "7XIE",
+    "title": "Crystal structure of a dimeric interlocked parallel G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.97,
+    "deposit_date": "2022-04-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7XIE"
+  },
+  "9TNR": {
+    "pdb_id": "9TNR",
+    "title": "L12 G-quadruplex-forming aptamer targeting HMGB1 protein",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2025-12-16T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9TNR"
+  },
+  "2B57": {
+    "pdb_id": "2B57",
+    "title": "Guanine Riboswitch C74U mutant bound to 2,6-diaminopurine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.15,
+    "deposit_date": "2005-09-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2B57"
+  },
+  "3SD3": {
+    "pdb_id": "3SD3",
+    "title": "The structure of the tetrahydrofolate riboswitch containing a U25C mutation",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.95,
+    "deposit_date": "2011-06-08T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3SD3"
+  },
+  "4RZD": {
+    "pdb_id": "4RZD",
+    "title": "Crystal Structure of a PreQ1 Riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.75,
+    "deposit_date": "2014-12-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4RZD"
+  },
+  "7XH9": {
+    "pdb_id": "7XH9",
+    "title": "Crystal structure of a dimeric interlocked parallel G-quadruplex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.63,
+    "deposit_date": "2022-04-07T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7XH9"
+  },
+  "8D2A": {
+    "pdb_id": "8D2A",
+    "title": "Crystal structure of theophylline aptamer in complex with TAL3",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.17,
+    "deposit_date": "2022-05-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D2A"
+  },
+  "8D2B": {
+    "pdb_id": "8D2B",
+    "title": "Crystal structure of theophylline aptamer in complex with TAL2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.44,
+    "deposit_date": "2022-05-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D2B"
+  },
+  "8K85": {
+    "pdb_id": "8K85",
+    "title": "Crystal structure of Red Broccoli aptamer with OBI",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2023-07-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K85"
+  },
+  "7QY4": {
+    "pdb_id": "7QY4",
+    "title": "As isolated MSOX movie series dataset 5 (2 MGy) of the copper nitrite reductase from Bradyrhizobium sp. ORS 375 (two-domain)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.35,
+    "deposit_date": "2022-01-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7QY4"
+  },
+  "1KOD": {
+    "pdb_id": "1KOD",
+    "title": "RNA APTAMER COMPLEXED WITH CITRULLINE, NMR",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-03-28T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1KOD"
+  },
+  "2EES": {
+    "pdb_id": "2EES",
+    "title": "Guanine riboswitch A21U, U75A mutant bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.75,
+    "deposit_date": "2007-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2EES"
+  },
+  "2EEU": {
+    "pdb_id": "2EEU",
+    "title": "Guanine riboswitch U22A, A52U mutant bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.95,
+    "deposit_date": "2007-02-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2EEU"
+  },
+  "2EEV": {
+    "pdb_id": "2EEV",
+    "title": "Guanine riboswitch U22C, A52G mutant bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.95,
+    "deposit_date": "2007-02-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2EEV"
+  },
+  "2EEW": {
+    "pdb_id": "2EEW",
+    "title": "Guanine Riboswitch U47C mutant bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.25,
+    "deposit_date": "2007-02-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2EEW"
+  },
+  "2JLT": {
+    "pdb_id": "2JLT",
+    "title": "Crystal structure of an RNA kissing complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2008-09-15T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2JLT"
+  },
+  "3IQR": {
+    "pdb_id": "3IQR",
+    "title": "SAM-I riboswitch from T. tencongensis variant A94G bound with SAM",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.55,
+    "deposit_date": "2009-08-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3IQR"
+  },
+  "3RKF": {
+    "pdb_id": "3RKF",
+    "title": "Crystal structure of guanine riboswitch C61U/G37A double mutant bound to thio-guanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2011-04-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3RKF"
+  },
+  "6VUH": {
+    "pdb_id": "6VUH",
+    "title": "APO PreQ1 riboswitch aptamer grown in Mn2+",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.999,
+    "deposit_date": "2020-02-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6VUH"
+  },
+  "8D5L": {
+    "pdb_id": "8D5L",
+    "title": "Crystal structure of theophylline aptamer in complex with TAL1",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.64,
+    "deposit_date": "2022-06-05T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D5L"
+  },
+  "8HZD": {
+    "pdb_id": "8HZD",
+    "title": "A new fluorescent RNA aptamer bound with N618",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.87,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZD"
+  },
+  "8HZK": {
+    "pdb_id": "8HZK",
+    "title": "A new fluorescent RNA aptamer bound with N, iridium hexammine soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZK"
+  },
+  "8K7W": {
+    "pdb_id": "8K7W",
+    "title": "Crystal structure of Broccoli aptamer with DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.24,
+    "deposit_date": "2023-07-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8K7W"
+  },
+  "8TFD": {
+    "pdb_id": "8TFD",
+    "title": "Crystal structure of a stem-loop DNA aptamer complexed with SARS-CoV-2 nucleocapsid protein RNA-binding domain",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.55,
+    "deposit_date": "2023-07-10T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8TFD"
+  },
+  "2EET": {
+    "pdb_id": "2EET",
+    "title": "Guanine Riboswitch A21G, U75C mutant bound to hypoxanthine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.95,
+    "deposit_date": "2007-02-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2EET"
+  },
+  "3IQN": {
+    "pdb_id": "3IQN",
+    "title": "Free-state structural transitions of the SAM-I riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2009-08-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3IQN"
+  },
+  "9EC4": {
+    "pdb_id": "9EC4",
+    "title": "Structure of the Bacillus subtilis yjdF riboswitch aptamer domain in complex with chelerythrine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.853,
+    "deposit_date": "2024-11-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EC4"
+  },
+  "3AHU": {
+    "pdb_id": "3AHU",
+    "title": "Crystal structure of YmaH (Hfq) from Bacillus subtilis in complex with an RNA aptamer.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2010-04-29T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3AHU"
+  },
+  "3HSB": {
+    "pdb_id": "3HSB",
+    "title": "Crystal structure of YmaH (Hfq) from Bacillus subtilis in complex with an RNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2009-06-10T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3HSB"
+  },
+  "3V7E": {
+    "pdb_id": "3V7E",
+    "title": "Crystal structure of YbxF bound to the SAM-I riboswitch aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2011-12-21T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3V7E"
+  },
+  "6SY6": {
+    "pdb_id": "6SY6",
+    "title": "TetR in complex with the TetR-binding RNA-aptamer K2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2019-09-27T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6SY6"
+  },
+  "3IVN": {
+    "pdb_id": "3IVN",
+    "title": "Structure of the U65C mutant A-riboswitch aptamer from the Bacillus subtilis pbuE operon",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2009-09-01T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3IVN"
+  },
+  "2YIF": {
+    "pdb_id": "2YIF",
+    "title": "Crystal structure of a F. nucleatum FMN riboswitch - Free state",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.298,
+    "deposit_date": "2011-05-12T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2YIF"
+  },
+  "5BJP": {
+    "pdb_id": "5BJP",
+    "title": "Crystal structure of the Corn RNA aptamer in complex with DFHO, iridium hexammine soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.51,
+    "deposit_date": "2016-08-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5BJP"
+  },
+  "8HZF": {
+    "pdb_id": "8HZF",
+    "title": "A new fluorescent RNA aptamer bound with N565",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZF"
+  },
+  "8HZJ": {
+    "pdb_id": "8HZJ",
+    "title": "A new fluorescent RNA aptamer bound with N571",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZJ"
+  },
+  "9EBV": {
+    "pdb_id": "9EBV",
+    "title": "Structure of the Bacillus subtilis yjdF riboswitch aptamer domain in complex with lumichrome",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.519,
+    "deposit_date": "2024-11-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EBV"
+  },
+  "5VOE": {
+    "pdb_id": "5VOE",
+    "title": "DesGla-XaS195A Bound to Aptamer 11F7t",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2017-05-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5VOE"
+  },
+  "1NTA": {
+    "pdb_id": "1NTA",
+    "title": "2.9 A crystal structure of Streptomycin RNA-aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2003-01-29T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1NTA"
+  },
+  "1NTB": {
+    "pdb_id": "1NTB",
+    "title": "2.9 A crystal structure of Streptomycin RNA-aptamer complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2003-01-29T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1NTB"
+  },
+  "8HZE": {
+    "pdb_id": "8HZE",
+    "title": "A new fluorescent RNA aptamer bound with N",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.59,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZE"
+  },
+  "5MSF": {
+    "pdb_id": "5MSF",
+    "title": "MS2 PROTEIN CAPSID/RNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "1998-05-15T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/5MSF"
+  },
+  "7MSF": {
+    "pdb_id": "7MSF",
+    "title": "MS2 PROTEIN CAPSID/RNA COMPLEX",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "1998-05-20T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7MSF"
+  },
+  "6CF2": {
+    "pdb_id": "6CF2",
+    "title": "Crystal structure of HIV-1 Rev (residues 1-93)-RNA aptamer complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2018-02-13T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/6CF2"
+  },
+  "3UZT": {
+    "pdb_id": "3UZT",
+    "title": "Structure of the C13.18 RNA Aptamer in Complex with G Protein-Coupled Receptor Kinase 2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.51,
+    "deposit_date": "2011-12-07T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UZT"
+  },
+  "37CN": {
+    "pdb_id": "37CN",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-cyclopentylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.99,
+    "deposit_date": "2026-07-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/37CN"
+  },
+  "4BCU": {
+    "pdb_id": "4BCU",
+    "title": "Satellite Tobacco Necrosis Virus (STNV) virus like particle in complex with the B3 aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.29,
+    "deposit_date": "2012-10-03T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4BCU"
+  },
+  "8HZM": {
+    "pdb_id": "8HZM",
+    "title": "A new fluorescent RNA aptamer bound with N, manganese soak",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZM"
+  },
+  "9E5J": {
+    "pdb_id": "9E5J",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-4-methoxybenzene-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.35,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5J"
+  },
+  "9E5P": {
+    "pdb_id": "9E5P",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-benzofuran-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.36,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5P"
+  },
+  "9E5R": {
+    "pdb_id": "9E5R",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-ethylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.34,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5R"
+  },
+  "4M4O": {
+    "pdb_id": "4M4O",
+    "title": "Crystal structure of the aptamer minE-lysozyme complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2013-08-07T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4M4O"
+  },
+  "8D28": {
+    "pdb_id": "8D28",
+    "title": "Crystal structure of theophylline aptamer in complex with theophylline",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.42,
+    "deposit_date": "2022-05-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D28"
+  },
+  "37CM": {
+    "pdb_id": "37CM",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-cyclopropylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.51,
+    "deposit_date": "2026-07-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/37CM"
+  },
+  "37CO": {
+    "pdb_id": "37CO",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-cyclohexylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.68,
+    "deposit_date": "2026-07-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/37CO"
+  },
+  "37CP": {
+    "pdb_id": "37CP",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-CH2-cyclopropylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.78,
+    "deposit_date": "2026-07-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/37CP"
+  },
+  "37CQ": {
+    "pdb_id": "37CQ",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-CH2-cyclopentylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.62,
+    "deposit_date": "2026-07-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/37CQ"
+  },
+  "5HS4": {
+    "pdb_id": "5HS4",
+    "title": "Plasmdoium Vivax Lactate dehydrogenase",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.339,
+    "deposit_date": "2016-01-25T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HS4"
+  },
+  "9E5H": {
+    "pdb_id": "9E5H",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with cyanocobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5H"
+  },
+  "9E5L": {
+    "pdb_id": "9E5L",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-benzothiophene-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.43,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5L"
+  },
+  "9E5M": {
+    "pdb_id": "9E5M",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-4,1'-biphenyl-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.39,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5M"
+  },
+  "9E5O": {
+    "pdb_id": "9E5O",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-pyrene-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.36,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5O"
+  },
+  "9E5Q": {
+    "pdb_id": "9E5Q",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-N-phenylpropiolamide-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.36,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5Q"
+  },
+  "5KH8": {
+    "pdb_id": "5KH8",
+    "title": "Solution structures of the apo state fluoride riboswitch",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2016-06-14T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5KH8"
+  },
+  "3AGV": {
+    "pdb_id": "3AGV",
+    "title": "Crystal structure of a human IgG-aptamer complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.15,
+    "deposit_date": "2010-04-08T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/3AGV"
+  },
+  "9E5I": {
+    "pdb_id": "9E5I",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-4-nitrobenzene-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.42,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5I"
+  },
+  "9E5K": {
+    "pdb_id": "9E5K",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-3-methylbenzene-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5K"
+  },
+  "9E5S": {
+    "pdb_id": "9E5S",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-4-(4-phenyl-2,3,4-triazole)-propanamine-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.55,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5S"
+  },
+  "9E5T": {
+    "pdb_id": "9E5T",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-4-(4-phenyl-2,3,4-triazole)-guanidinium-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.19,
+    "deposit_date": "2024-10-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9E5T"
+  },
+  "1QDF": {
+    "pdb_id": "1QDF",
+    "title": "THE NMR STUDY OF DNA QUADRUPLEX STRUCTURE, APTAMER (15MER) DNA",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-04-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1QDF"
+  },
+  "7V5N": {
+    "pdb_id": "7V5N",
+    "title": "Crystal structure of Fab fragment of bevacizumab bound to DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.7,
+    "deposit_date": "2021-08-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7V5N"
+  },
+  "8ZBF": {
+    "pdb_id": "8ZBF",
+    "title": "Crystal structure of the A58-T10 DNA aptamer in complex with SARS-CoV-2 N-NTD",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2024-04-26T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8ZBF"
+  },
+  "1C32": {
+    "pdb_id": "1C32",
+    "title": "SOLUTION STRUCTURE OF A QUADRUPLEX FORMING DNA AND ITS INTERMIDIATE",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-07-24T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1C32"
+  },
+  "1C34": {
+    "pdb_id": "1C34",
+    "title": "SOLUTION STRUCTURE OF A QUADRUPLEX FORMING DNA AND ITS INTERMIDIATE",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-07-24T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1C34"
+  },
+  "9ELR": {
+    "pdb_id": "9ELR",
+    "title": "env2 cobalamin riboswitch aptamer domain in complex with ethynyl-2-naphthalenepropiolate-cobalamin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2024-12-04T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9ELR"
+  },
+  "1Y8D": {
+    "pdb_id": "1Y8D",
+    "title": "Dimeric parallel-stranded tetraplex with 3+1 5' G-tetrad interface, single-residue chain reversal loops and GAG triad in the context of A(GGGG) pentad",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2004-12-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1Y8D"
+  },
+  "3K1V": {
+    "pdb_id": "3K1V",
+    "title": "Cocrystal structure of a mutant class-I preQ1 riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2009-09-28T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3K1V"
+  },
+  "9NBC": {
+    "pdb_id": "9NBC",
+    "title": "RNA scaffold attached to 8-oxoguanine riboswitch aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.87,
+    "deposit_date": "2025-02-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NBC"
+  },
+  "5D3G": {
+    "pdb_id": "5D3G",
+    "title": "Structure of HIV-1 Reverse Transcriptase Bound to a Novel 38-mer Hairpin Template-Primer DNA Aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2015-08-06T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5D3G"
+  },
+  "6BHJ": {
+    "pdb_id": "6BHJ",
+    "title": "Structure of HIV-1 Reverse Transcriptase Bound to a 38-mer Hairpin Template-Primer RNA-DNA Aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.81,
+    "deposit_date": "2017-10-30T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6BHJ"
+  },
+  "1QDH": {
+    "pdb_id": "1QDH",
+    "title": "THE NMR STUDY OF DNA QUADRUPLEX STRUCTURE, APTAMER (15MER) DNA",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1996-04-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1QDH"
+  },
+  "3FU2": {
+    "pdb_id": "3FU2",
+    "title": "Cocrystal structure of a class-I preQ1 riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.85,
+    "deposit_date": "2009-01-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3FU2"
+  },
+  "7YQ6": {
+    "pdb_id": "7YQ6",
+    "title": "human insulin receptor bound with A62 DNA aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.18,
+    "deposit_date": "2022-08-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7YQ6"
+  },
+  "2YIE": {
+    "pdb_id": "2YIE",
+    "title": "Crystal structure of a F. nucleatum FMN riboswitch bound to FMN",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.941,
+    "deposit_date": "2011-05-12T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/2YIE"
+  },
+  "4LVW": {
+    "pdb_id": "4LVW",
+    "title": "Structure of the THF riboswitch bound to 7-deazaguanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.768,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LVW"
+  },
+  "9NBH": {
+    "pdb_id": "9NBH",
+    "title": "RNA scaffold attached to 8-oxoguanine riboswitch aptamer core only",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.52,
+    "deposit_date": "2025-02-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9NBH"
+  },
+  "1C35": {
+    "pdb_id": "1C35",
+    "title": "SOLUTION STRUCTURE OF A QUADRUPLEX FORMING DNA AND ITS INTERMIDIATE",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-07-25T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1C35"
+  },
+  "4LVZ": {
+    "pdb_id": "4LVZ",
+    "title": "Structure of the THF riboswitch bound to 2,6-diaminopurine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.77,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LVZ"
+  },
+  "7D31": {
+    "pdb_id": "7D31",
+    "title": "The TBA-Pb2+ complex in P41212 space group",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.396,
+    "deposit_date": "2020-09-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7D31"
+  },
+  "7D32": {
+    "pdb_id": "7D32",
+    "title": "The TBA-Pb2+ complex in P41212 space group",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.707,
+    "deposit_date": "2020-09-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7D32"
+  },
+  "6B14": {
+    "pdb_id": "6B14",
+    "title": "Crystal structure of Spinach RNA aptamer in complex with Fab BL3-6S97N",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.64,
+    "deposit_date": "2017-09-16T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6B14"
+  },
+  "6DJA": {
+    "pdb_id": "6DJA",
+    "title": "ZN-DEPENDENT 5/B/6 METALLO-BETA-LACTAMASE FROM BACILLUS CEREUS",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.48,
+    "deposit_date": "2018-05-24T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6DJA"
+  },
+  "7F49": {
+    "pdb_id": "7F49",
+    "title": "von Willebrand factor (VWF) A1 domain with BT-100 aptamer RNA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.09,
+    "deposit_date": "2021-06-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7F49"
+  },
+  "1C38": {
+    "pdb_id": "1C38",
+    "title": "SOLUTION STRUCTURE OF A QUADRUPLEX FORMING DNA AND ITS INTERMEDIATE",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "1999-07-25T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/1C38"
+  },
+  "4ERJ": {
+    "pdb_id": "4ERJ",
+    "title": "Crystal structure of the lysine riboswitch bound to a 6-aminocaproic acid",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2012-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4ERJ"
+  },
+  "4LW0": {
+    "pdb_id": "4LW0",
+    "title": "Structure of the THF riboswitch bound to adenine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.889,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LW0"
+  },
+  "6WLJ": {
+    "pdb_id": "6WLJ",
+    "title": "ATP-TTR-3 with AMP models, 9.6 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 9.6,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLJ"
+  },
+  "6WLK": {
+    "pdb_id": "6WLK",
+    "title": "Apo ATP-TTR-3 models, 10.0 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 10.0,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLK"
+  },
+  "7D33": {
+    "pdb_id": "7D33",
+    "title": "The Pb2+ complexed structure of TBA G8C mutant",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.117,
+    "deposit_date": "2020-09-18T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7D33"
+  },
+  "8FW4": {
+    "pdb_id": "8FW4",
+    "title": "Crystal structure of the adenosylcobalamin riboswitch holo conformation in absence of ligand",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 4.3,
+    "deposit_date": "2023-01-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8FW4"
+  },
+  "9EBP": {
+    "pdb_id": "9EBP",
+    "title": "Structure of the Bacillus subtilis yjdF riboswitch complexed with lumichrome in the presence of iridium hexammine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2024-11-12T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9EBP"
+  },
+  "6B3K": {
+    "pdb_id": "6B3K",
+    "title": "Crystal structure of mutant Spinach RNA aptamer in complex with Fab BL3-6",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.09,
+    "deposit_date": "2017-09-22T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6B3K"
+  },
+  "8DK7": {
+    "pdb_id": "8DK7",
+    "title": "Crystal structure of theophylline aptamer soaked with TAL2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.46,
+    "deposit_date": "2022-07-04T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8DK7"
+  },
+  "8EPK": {
+    "pdb_id": "8EPK",
+    "title": "Complex of anticoagulant RNA aptamer and human coagulation factor IXa (S195A)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.65,
+    "deposit_date": "2022-10-05T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EPK"
+  },
+  "9TNQ": {
+    "pdb_id": "9TNQ",
+    "title": "L41 G-quadruplex-forming aptamers targeting HMGB1 protein",
+    "method": "SOLUTION NMR",
+    "resolution": null,
+    "deposit_date": "2025-12-16T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/9TNQ"
+  },
+  "4LVX": {
+    "pdb_id": "4LVX",
+    "title": "Structure of the THF riboswitch bound to tetrahydrobiopterin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LVX"
+  },
+  "6WLL": {
+    "pdb_id": "6WLL",
+    "title": "Apo F. nucleatum glycine riboswitch models, 10.0 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 10.0,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLL"
+  },
+  "6WLM": {
+    "pdb_id": "6WLM",
+    "title": "F. nucleatum glycine riboswitch with glycine models, 7.4 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 7.4,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLM"
+  },
+  "8HZL": {
+    "pdb_id": "8HZL",
+    "title": "A new fluorescent RNA aptamer_III bound with N",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2023-01-09T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HZL"
+  },
+  "8VPV": {
+    "pdb_id": "8VPV",
+    "title": "Class III PreQ1 riboswitch mutant delta84",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.04,
+    "deposit_date": "2024-01-17T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VPV"
+  },
+  "8VQV": {
+    "pdb_id": "8VQV",
+    "title": "Structure of S. odontolytica ZTP riboswitch bound to m-1-pyridinyl-AICA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.43,
+    "deposit_date": "2024-01-19T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VQV"
+  },
+  "8VXZ": {
+    "pdb_id": "8VXZ",
+    "title": "Mango II bound to 365A-084",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2024-02-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VXZ"
+  },
+  "3UZS": {
+    "pdb_id": "3UZS",
+    "title": "Structure of the C13.28 RNA Aptamer Bound to the G Protein-Coupled Receptor Kinase 2-Heterotrimeric G Protein Beta 1 and Gamma 2 Subunit Complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 4.52,
+    "deposit_date": "2011-12-07T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UZS"
+  },
+  "4DIH": {
+    "pdb_id": "4DIH",
+    "title": "X-ray structure of the complex between human alpha thrombin and thrombin binding aptamer in the presence of sodium ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.8,
+    "deposit_date": "2012-01-31T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4DIH"
+  },
+  "4DII": {
+    "pdb_id": "4DII",
+    "title": "X-ray structure of the complex between human alpha thrombin and thrombin binding aptamer in the presence of potassium ions",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.05,
+    "deposit_date": "2012-01-31T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4DII"
+  },
+  "4ZBN": {
+    "pdb_id": "4ZBN",
+    "title": "Non-helical DNA Triplex Forms a Unique Aptamer Scaffold for High Affinity Recognition of Nerve Growth Factor",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.447,
+    "deposit_date": "2015-04-15T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4ZBN"
+  },
+  "5VOF": {
+    "pdb_id": "5VOF",
+    "title": "DesGla-XaS195A Bound to Aptamer 11F7t and Rivaroxaban",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.25,
+    "deposit_date": "2017-05-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5VOF"
+  },
+  "4LVV": {
+    "pdb_id": "4LVV",
+    "title": "Structure of the THF riboswitch",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LVV"
+  },
+  "4LVY": {
+    "pdb_id": "4LVY",
+    "title": "Structure of the THF riboswitch bound to pemetrexed",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2013-07-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LVY"
+  },
+  "4XNR": {
+    "pdb_id": "4XNR",
+    "title": "Vibrio Vulnificus Adenine Riboswitch Aptamer Domain, Synthesized by Position-selective Labeling of RNA (PLOR), in Complex with Adenine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.21,
+    "deposit_date": "2015-01-16T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4XNR"
+  },
+  "5UZA": {
+    "pdb_id": "5UZA",
+    "title": "Adenine riboswitch aptamer domain labelled with iodo-uridine by position-selective labelling of RNA (PLOR)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.22,
+    "deposit_date": "2017-02-25T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/5UZA"
+  },
+  "6UC7": {
+    "pdb_id": "6UC7",
+    "title": "Structure of guanine riboswitch bound to N2-acetyl guanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.798,
+    "deposit_date": "2019-09-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6UC7"
+  },
+  "6WLQ": {
+    "pdb_id": "6WLQ",
+    "title": "Apo SAM-IV riboswitch models, 4.7 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.7,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLQ"
+  },
+  "6WLR": {
+    "pdb_id": "6WLR",
+    "title": "SAM-IV riboswitch with SAM models, 4.8 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.8,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLR"
+  },
+  "6XKN": {
+    "pdb_id": "6XKN",
+    "title": "Class III PreQ1 riboswitch mutant A52G",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.73,
+    "deposit_date": "2020-06-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6XKN"
+  },
+  "6XKO": {
+    "pdb_id": "6XKO",
+    "title": "Class III PreQ1 riboswitch mutant A84G",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.75,
+    "deposit_date": "2020-06-26T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6XKO"
+  },
+  "7REX": {
+    "pdb_id": "7REX",
+    "title": "PreQ1-1 (type-1) riboswitch in complex with tandem stacked metabolites",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.6,
+    "deposit_date": "2021-07-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7REX"
+  },
+  "8HB8": {
+    "pdb_id": "8HB8",
+    "title": "Crystal structure of NAD-II riboswitch (single strand) with NMN",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2022-10-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HB8"
+  },
+  "8VVJ": {
+    "pdb_id": "8VVJ",
+    "title": "Structure of S. odontolytica ZTP riboswitch bound to m-1-pyridinyl-AICA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.15,
+    "deposit_date": "2024-01-31T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VVJ"
+  },
+  "8VXX": {
+    "pdb_id": "8VXX",
+    "title": "Mango II bound to 365A-061",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2024-02-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VXX"
+  },
+  "8VY0": {
+    "pdb_id": "8VY0",
+    "title": "Mango II bound to 365A-087",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2024-02-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VY0"
+  },
+  "8VY1": {
+    "pdb_id": "8VY1",
+    "title": "Mango II bound to 365A-088",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2024-02-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8VY1"
+  },
+  "9T74": {
+    "pdb_id": "9T74",
+    "title": "2'-fluoro-modified pyrimidine (FY) RNA aptamer binding to the receptor binding domain (RBD) of the SARS-CoV-2 spike protein. (focus map: RBD-aptamer)",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.46,
+    "deposit_date": "2025-11-10T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9T74"
+  },
+  "4OQU": {
+    "pdb_id": "4OQU",
+    "title": "Structure of the SAM-I/IV riboswitch (env87(deltaU92))",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.2,
+    "deposit_date": "2014-02-10T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4OQU"
+  },
+  "6WLT": {
+    "pdb_id": "6WLT",
+    "title": "Apo V. cholerae glycine riboswitch models, 4.8 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.8,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLT"
+  },
+  "6WLU": {
+    "pdb_id": "6WLU",
+    "title": "V. cholerae glycine riboswitch with glycine models, 5.7 Angstrom resolution",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 5.7,
+    "deposit_date": "2020-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6WLU"
+  },
+  "3UCU": {
+    "pdb_id": "3UCU",
+    "title": "The c-di-GMP-I riboswitch bound to pGpG",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2011-10-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UCU"
+  },
+  "3UCZ": {
+    "pdb_id": "3UCZ",
+    "title": "The c-di-GMP-I riboswitch bound to GpG",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2011-10-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UCZ"
+  },
+  "3UD3": {
+    "pdb_id": "3UD3",
+    "title": "The C92U mutant c-di-GMP-I riboswitch bound to pGpA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2011-10-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UD3"
+  },
+  "3UD4": {
+    "pdb_id": "3UD4",
+    "title": "The C92U mutant c-di-GMP-I riboswitch bound to GpA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2011-10-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3UD4"
+  },
+  "7JTN": {
+    "pdb_id": "7JTN",
+    "title": "Human Complement Factor B Inhibited by a Slow Off-Rate Modified Aptamer of 29 Bases",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.1,
+    "deposit_date": "2020-08-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7JTN"
+  },
+  "7JTQ": {
+    "pdb_id": "7JTQ",
+    "title": "Human Complement Factor B Inhibited by a Slow Off-Rate Modified Aptamer of 31 Bases",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.5,
+    "deposit_date": "2020-08-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7JTQ"
+  },
+  "8D29": {
+    "pdb_id": "8D29",
+    "title": "Crystal structure of theophylline aptamer - apo form",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.81,
+    "deposit_date": "2022-05-28T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8D29"
+  },
+  "4R8I": {
+    "pdb_id": "4R8I",
+    "title": "High Resolution Structure of a Mirror-Image RNA Oligonucleotide Aptamer in Complex with the Chemokine CCL2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.05,
+    "deposit_date": "2014-09-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4R8I"
+  },
+  "6VUI": {
+    "pdb_id": "6VUI",
+    "title": "Metabolite-bound PreQ1 riboswitch with Mn2+",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.681,
+    "deposit_date": "2020-02-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6VUI"
+  },
+  "8KHH": {
+    "pdb_id": "8KHH",
+    "title": "Crystal structure of 2'-dG-III riboswitch with guanosine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2023-08-21T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8KHH"
+  },
+  "3Q3Z": {
+    "pdb_id": "3Q3Z",
+    "title": "Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.51,
+    "deposit_date": "2010-12-22T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/3Q3Z"
+  },
+  "7E9I": {
+    "pdb_id": "7E9I",
+    "title": "Crystal structure of a class I PreQ1 riboswitch aptamer (wild-type) complexed with a cognate ligand-derived photoaffinity probe",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2021-03-04T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7E9I"
+  },
+  "7L0Z": {
+    "pdb_id": "7L0Z",
+    "title": "Spinach variant bound to DFHBI-1T",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2020-12-13T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7L0Z"
+  },
+  "5HRT": {
+    "pdb_id": "5HRT",
+    "title": "Crystal structure of mouse autotaxin in complex with a DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.997,
+    "deposit_date": "2016-01-24T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HRT"
+  },
+  "6UC8": {
+    "pdb_id": "6UC8",
+    "title": "Guanine riboswitch bound to 8-aminoguanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.898,
+    "deposit_date": "2019-09-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6UC8"
+  },
+  "6UC9": {
+    "pdb_id": "6UC9",
+    "title": "Guanine riboswitch bound to O6-cyclohexylmethyl guanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.941,
+    "deposit_date": "2019-09-15T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/6UC9"
+  },
+  "7E9E": {
+    "pdb_id": "7E9E",
+    "title": "Crystal structure of a class I PreQ1 riboswitch aptamer (ab13-14) complexed with a cognate ligand-derived photoaffinity probe",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.57,
+    "deposit_date": "2021-03-04T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/7E9E"
+  },
+  "8HB3": {
+    "pdb_id": "8HB3",
+    "title": "Crystal structure of NAD-II riboswitch (two strands) with NR",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.87,
+    "deposit_date": "2022-10-27T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HB3"
+  },
+  "8HBA": {
+    "pdb_id": "8HBA",
+    "title": "Crystal structure of NAD-II riboswitch (single strand) with NAD",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.64,
+    "deposit_date": "2022-10-27T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HBA"
+  },
+  "1F27": {
+    "pdb_id": "1F27",
+    "title": "CRYSTAL STRUCTURE OF A BIOTIN-BINDING RNA PSEUDOKNOT",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.3,
+    "deposit_date": "2000-05-23T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1F27"
+  },
+  "2XNZ": {
+    "pdb_id": "2XNZ",
+    "title": "xpt-pbuX C74U Riboswitch from B. subtilis bound to acetoguanamine identified by virtual screening",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.59,
+    "deposit_date": "2010-08-06T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/2XNZ"
+  },
+  "8HB1": {
+    "pdb_id": "8HB1",
+    "title": "Crystal structure of NAD-II riboswitch (two strands) with NMN",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.23,
+    "deposit_date": "2022-10-27T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8HB1"
+  },
+  "8I3Z": {
+    "pdb_id": "8I3Z",
+    "title": "Crystal structure of NAD-II riboswitch (two strands) with NMN at 1.67 angstrom",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.67,
+    "deposit_date": "2023-01-18T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8I3Z"
+  },
+  "8KEB": {
+    "pdb_id": "8KEB",
+    "title": "Crystal structure of 2'-dG-III riboswitch with 2'-dG",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2023-08-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8KEB"
+  },
+  "8KED": {
+    "pdb_id": "8KED",
+    "title": "Crystal structure of 2'-dG-III riboswitch with guanine",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.11,
+    "deposit_date": "2023-08-11T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/8KED"
+  },
+  "9JF9": {
+    "pdb_id": "9JF9",
+    "title": "Human insulin receptor bound with A62-dimer, Pseudo-arrowhead conformation",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 6.26,
+    "deposit_date": "2024-09-04T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9JF9"
+  },
+  "4ERL": {
+    "pdb_id": "4ERL",
+    "title": "Crystal structure of the lysine riboswitch bound to a lysine-glycine dipeptide",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2012-04-20T00:00:00.000+00:00",
+    "polymer_count": 1,
+    "viewer_url": "https://www.rcsb.org/3d-view/4ERL"
+  },
+  "7YQ3": {
+    "pdb_id": "7YQ3",
+    "title": "human insulin receptor bound with A43 DNA aptamer and insulin",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.6,
+    "deposit_date": "2022-08-05T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/7YQ3"
+  },
+  "7YQ5": {
+    "pdb_id": "7YQ5",
+    "title": "human insulin receptor bound with A62 DNA aptamer and insulin",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.27,
+    "deposit_date": "2022-08-05T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/7YQ5"
+  },
+  "4I7Y": {
+    "pdb_id": "4I7Y",
+    "title": "Crystal Structure of Human Alpha Thrombin in Complex with a 27-mer Aptamer Bound to Exosite II",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.4,
+    "deposit_date": "2012-12-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4I7Y"
+  },
+  "1U1Y": {
+    "pdb_id": "1U1Y",
+    "title": "Crystal structure of a complex between WT bacteriophage MS2 coat protein and an F5 aptamer RNA stemloop with 2aminopurine substituted at the-10 position",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.85,
+    "deposit_date": "2004-07-16T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1U1Y"
+  },
+  "7EZW": {
+    "pdb_id": "7EZW",
+    "title": "Cyclic Peptide that Interacts with the eIF4E Capped-mRNA Binding Site",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.35,
+    "deposit_date": "2021-06-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7EZW"
+  },
+  "8EPC": {
+    "pdb_id": "8EPC",
+    "title": "Crystal structure of human coagulation factor IXa (S195A), apo-form",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.51,
+    "deposit_date": "2022-10-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EPC"
+  },
+  "3QLP": {
+    "pdb_id": "3QLP",
+    "title": "X-ray structure of the complex between human alpha thrombin and a modified thrombin binding aptamer (mTBA)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.14,
+    "deposit_date": "2011-02-03T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3QLP"
+  },
+  "4LZ1": {
+    "pdb_id": "4LZ1",
+    "title": "X-ray structure of the complex between human thrombin and the TBA deletion mutant lacking thymine 12 nucleobase",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.65,
+    "deposit_date": "2013-07-31T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LZ1"
+  },
+  "1OOA": {
+    "pdb_id": "1OOA",
+    "title": "CRYSTAL STRUCTURE OF NF-kB(p50)2 COMPLEXED TO A HIGH-AFFINITY RNA APTAMER",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.45,
+    "deposit_date": "2003-03-03T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/1OOA"
+  },
+  "4KZD": {
+    "pdb_id": "4KZD",
+    "title": "Crystal structure of an RNA aptamer in complex with fluorophore and Fab",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.186,
+    "deposit_date": "2013-05-29T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4KZD"
+  },
+  "4KZE": {
+    "pdb_id": "4KZE",
+    "title": "Crystal structure of an RNA aptamer in complex with Fab",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.404,
+    "deposit_date": "2013-05-29T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4KZE"
+  },
+  "7F07": {
+    "pdb_id": "7F07",
+    "title": "Autonomous VH domain that interacts with eIF4E at the Capped mRNA Binding site.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.25,
+    "deposit_date": "2021-06-03T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7F07"
+  },
+  "8EPH": {
+    "pdb_id": "8EPH",
+    "title": "Crystal structure of human coagulation factor IXa (S195A), apo-form, DES-GLA",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.88,
+    "deposit_date": "2022-10-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/8EPH"
+  },
+  "5XN0": {
+    "pdb_id": "5XN0",
+    "title": "HIV-1 reverse transcriptase Q151M:DNA binary complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.596,
+    "deposit_date": "2017-05-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5XN0"
+  },
+  "5XN1": {
+    "pdb_id": "5XN1",
+    "title": "HIV-1 reverse transcriptase Q151M:DNA:entecavir-triphosphate ternary complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.446,
+    "deposit_date": "2017-05-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5XN1"
+  },
+  "5XN2": {
+    "pdb_id": "5XN2",
+    "title": "HIV-1 reverse transcriptase Q151M:DNA:dGTP ternary complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.381,
+    "deposit_date": "2017-05-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5XN2"
+  },
+  "8GUY": {
+    "pdb_id": "8GUY",
+    "title": "human insulin receptor bound with two insulin molecules",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.18,
+    "deposit_date": "2022-09-14T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8GUY"
+  },
+  "9SA8": {
+    "pdb_id": "9SA8",
+    "title": "Human insulin receptor domains FnIII-1 and L2 bound to HIR-6 DNA aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.88,
+    "deposit_date": "2025-08-07T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/9SA8"
+  },
+  "4LZ4": {
+    "pdb_id": "4LZ4",
+    "title": "X-ray structure of the complex between human thrombin and the TBA deletion mutant lacking thymine 3 nucleobase",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.56,
+    "deposit_date": "2013-07-31T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/4LZ4"
+  },
+  "5I3U": {
+    "pdb_id": "5I3U",
+    "title": "STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE N-SITE COMPLEX; CATALYTIC INCORPORATION OF AZTMP to A DNA aptamer in CRYSTAL",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2016-02-11T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5I3U"
+  },
+  "8J1Q": {
+    "pdb_id": "8J1Q",
+    "title": "CryoEM structure of SARS CoV-2 RBD and Aptamer complex",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.3,
+    "deposit_date": "2023-04-13T00:00:00.000+00:00",
+    "polymer_count": 5,
+    "viewer_url": "https://www.rcsb.org/3d-view/8J1Q"
+  },
+  "8J26": {
+    "pdb_id": "8J26",
+    "title": "CryoEM structure of SARS CoV-2 RBD and Aptamer complex",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.4,
+    "deposit_date": "2023-04-14T00:00:00.000+00:00",
+    "polymer_count": 5,
+    "viewer_url": "https://www.rcsb.org/3d-view/8J26"
+  },
+  "5UC6": {
+    "pdb_id": "5UC6",
+    "title": "Structural insights into IL-1 alpha recognition by a naphthyl-modified aptamer that mimics IL-1RI Domain III",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.1,
+    "deposit_date": "2016-12-21T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/5UC6"
+  },
+  "7MK1": {
+    "pdb_id": "7MK1",
+    "title": "Structure of a protein-modified aptamer complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2021-04-21T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7MK1"
+  },
+  "6EO6": {
+    "pdb_id": "6EO6",
+    "title": "X-ray structure of the complex between human alpha-thrombin and modified 15-mer DNA aptamer containing 5-(3-(2-(1H-indol-3-yl)acetamide-N-yl)-1-propen-1-yl)-2'-deoxyuridine residue",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.69,
+    "deposit_date": "2017-10-09T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6EO6"
+  },
+  "6EO7": {
+    "pdb_id": "6EO7",
+    "title": "X-ray structure of the complex between human alpha-thrombin and modified 15-mer DNA aptamer containing 5-(3-(acetamide-N-yl)-1-propen-1-yl)-2'-deoxyuridine residue",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.24,
+    "deposit_date": "2017-10-09T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6EO7"
+  },
+  "7ZQS": {
+    "pdb_id": "7ZQS",
+    "title": "Cryo-EM Structure of Human Transferrin Receptor 1 bound to DNA Aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.54,
+    "deposit_date": "2022-05-02T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZQS"
+  },
+  "6Z8X": {
+    "pdb_id": "6Z8X",
+    "title": "X-ray structure of the complex between human alpha thrombin and a thrombin binding aptamer variant (TBA-3Leu), which contains leucyl amide in the side chain of Thy3 at N3.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.53,
+    "deposit_date": "2020-06-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6Z8X"
+  },
+  "5HRO": {
+    "pdb_id": "5HRO",
+    "title": "STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE In COMPLEX WITH A DNA aptamer and an Alpha-carboxy nucleoside phosphonate inhibitor (alpha-CNP)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.75,
+    "deposit_date": "2016-01-23T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HRO"
+  },
+  "5I42": {
+    "pdb_id": "5I42",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with a DNA aptamer, AZTTP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.3,
+    "deposit_date": "2016-02-11T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5I42"
+  },
+  "7OZW": {
+    "pdb_id": "7OZW",
+    "title": "Cryo-EM structure of HIV-1 reverse transcriptase with a DNA aptamer in complex with fragment 166 at the transient P-pocket",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.38,
+    "deposit_date": "2021-06-28T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7OZW"
+  },
+  "7P15": {
+    "pdb_id": "7P15",
+    "title": "Cryo-EM structure of HIV-1 reverse transcriptase with a DNA aptamer in complex with fragment F04 at the transient P-pocket",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.58,
+    "deposit_date": "2021-07-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7P15"
+  },
+  "7Z24": {
+    "pdb_id": "7Z24",
+    "title": "Cryo-EM structure of HIV-1 reverse transcriptase with a DNA aptamer in complex with nevirapine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.32,
+    "deposit_date": "2022-02-25T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z24"
+  },
+  "7Z29": {
+    "pdb_id": "7Z29",
+    "title": "Cryo-EM structure of NNRTI resistant M184I/E138K mutant HIV-1 reverse transcriptase with a DNA aptamer in complex with nevirapine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.38,
+    "deposit_date": "2022-02-26T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z29"
+  },
+  "7Z2D": {
+    "pdb_id": "7Z2D",
+    "title": "Cryo-EM structure of HIV-1 reverse transcriptase with a DNA aptamer in complex with rilpivirine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.38,
+    "deposit_date": "2022-02-26T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z2D"
+  },
+  "7Z2E": {
+    "pdb_id": "7Z2E",
+    "title": "Cryo-EM structure of NNRTI resistant M184I/E138K mutant HIV-1 reverse transcriptase with a DNA aptamer in complex with rilpivirine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.45,
+    "deposit_date": "2022-02-26T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z2E"
+  },
+  "7Z2G": {
+    "pdb_id": "7Z2G",
+    "title": "Cryo-EM structure of HIV-1 reverse transcriptase with a DNA aptamer in complex with doravirine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.65,
+    "deposit_date": "2022-02-26T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z2G"
+  },
+  "7Z2H": {
+    "pdb_id": "7Z2H",
+    "title": "Cryo-EM structure of NNRTI resistant M184I/E138K mutant HIV-1 reverse transcriptase with a DNA aptamer in complex with doravirine",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.58,
+    "deposit_date": "2022-02-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7Z2H"
+  },
+  "9JHS": {
+    "pdb_id": "9JHS",
+    "title": "Human insulin receptor bound with A62-dimer, arrowhead conformation",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 5.02,
+    "deposit_date": "2024-09-10T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/9JHS"
+  },
+  "3DD2": {
+    "pdb_id": "3DD2",
+    "title": "Crystal structure of an RNA aptamer bound to human thrombin",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.9,
+    "deposit_date": "2008-06-04T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/3DD2"
+  },
+  "6EVV": {
+    "pdb_id": "6EVV",
+    "title": "X-ray structure of the complex between human alpha thrombin and NU172, a duplex/quadruplex 26-mer DNA aptamer, in the presence of potassium ions.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2017-11-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6EVV"
+  },
+  "6GN7": {
+    "pdb_id": "6GN7",
+    "title": "X-ray structure of the complex between human alpha thrombin and NU172, a duplex/quadruplex 26-mer DNA aptamer, in the presence of sodium ions.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2018-05-30T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6GN7"
+  },
+  "6Z8V": {
+    "pdb_id": "6Z8V",
+    "title": "X-ray structure of the complex between human alpha thrombin and a thrombin binding aptamer variant (TBA-3L), which contains 1-beta-D-lactopyranosyl residue in the side chain of Thy3 at N3.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.58,
+    "deposit_date": "2020-06-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6Z8V"
+  },
+  "6Z8W": {
+    "pdb_id": "6Z8W",
+    "title": "X-ray structure of the complex between human alpha thrombin and a thrombin binding aptamer variant (TBA-3G), which contains 1-beta-D-glucopyranosyl residue in the side chain of Thy3 at N3.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.73,
+    "deposit_date": "2020-06-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6Z8W"
+  },
+  "6U82": {
+    "pdb_id": "6U82",
+    "title": "Crystal Structure of the Double Homeodomain of DUX4 in Complex with a DNA aptamer containing bulge and loop",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.21,
+    "deposit_date": "2019-09-04T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/6U82"
+  },
+  "5HLF": {
+    "pdb_id": "5HLF",
+    "title": "STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE In COMPLEX WITH A 38-MER HAIRPIN TEMPLATE-PRIMER DNA APTAMER AND AN ALPHA-CARBOXYPHOSPHONATE INHIBITOR",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2016-01-15T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HLF"
+  },
+  "5HP1": {
+    "pdb_id": "5HP1",
+    "title": "STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE In COMPLEX WITH A DNA aptamer and FOSCARNET, a Pyrophosphate analog",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2016-01-19T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5HP1"
+  },
+  "7YQ4": {
+    "pdb_id": "7YQ4",
+    "title": "human insulin receptor bound with A62 DNA aptamer and insulin - locally refined",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 3.95,
+    "deposit_date": "2022-08-05T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/7YQ4"
+  },
+  "6U81": {
+    "pdb_id": "6U81",
+    "title": "Crystal Structure of the Double Homeodomain of DUX4 in Complex with a DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.34,
+    "deposit_date": "2019-09-04T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/6U81"
+  },
+  "6VUG": {
+    "pdb_id": "6VUG",
+    "title": "Diabody bound to a Reverse Transcriptase Aptamer Complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.0,
+    "deposit_date": "2020-02-15T00:00:00.000+00:00",
+    "polymer_count": 5,
+    "viewer_url": "https://www.rcsb.org/3d-view/6VUG"
+  },
+  "1HUT": {
+    "pdb_id": "1HUT",
+    "title": "THE STRUCTURE OF ALPHA-THROMBIN INHIBITED BY A 15-MER SINGLE-STRANDED DNA APTAMER",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "1993-05-27T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/1HUT"
+  },
+  "9JFD": {
+    "pdb_id": "9JFD",
+    "title": "Human insulin receptor bound with A62-dimer, Pseudo-gamma conformation",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 9.35,
+    "deposit_date": "2024-09-04T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/9JFD"
+  },
+  "5EW1": {
+    "pdb_id": "5EW1",
+    "title": "Human thrombin sandwiched between two DNA aptamers: HD22 and HD1-deltaT3",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.95,
+    "deposit_date": "2015-11-20T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/5EW1"
+  },
+  "5EW2": {
+    "pdb_id": "5EW2",
+    "title": "Human thrombin sandwiched between two DNA aptamers: HD22 and HD1-deltaT12",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.59,
+    "deposit_date": "2015-11-20T00:00:00.000+00:00",
+    "polymer_count": 4,
+    "viewer_url": "https://www.rcsb.org/3d-view/5EW2"
+  },
+  "8BW5": {
+    "pdb_id": "8BW5",
+    "title": "X-ray structure of the complex between human alpha thrombin and the duplex/quadruplex aptamer M08s-1_41mer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "2022-12-06T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8BW5"
+  },
+  "36BT": {
+    "pdb_id": "36BT",
+    "title": "HIV-1 reverse transcriptase in complex with DNAddG Aptamer and unincorporated ISL-triphosphate",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 1.85,
+    "deposit_date": "2026-05-29T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/36BT"
+  },
+  "36CP": {
+    "pdb_id": "36CP",
+    "title": "HIV-1 reverse transcriptase in complex with DNA Aptamer and Incorporated dATP",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 1.9,
+    "deposit_date": "2026-06-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/36CP"
+  },
+  "36CW": {
+    "pdb_id": "36CW",
+    "title": "HIV-1 reverse transcriptase (F227C) in complex with DNAddG Aptamer and unincorporated ISL-triphosphate",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 1.9,
+    "deposit_date": "2026-06-01T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/36CW"
+  },
+  "36DK": {
+    "pdb_id": "36DK",
+    "title": "HIV-1 reverse transcriptase (F227C) in complex with DNA Aptamer and Incorporated dATP",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.1,
+    "deposit_date": "2026-06-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/36DK"
+  },
+  "36DN": {
+    "pdb_id": "36DN",
+    "title": "HIV-1 reverse transcriptase (F227C) in complex with DNAddG Aptamer",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 2.2,
+    "deposit_date": "2026-06-02T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/36DN"
+  },
+  "4HQU": {
+    "pdb_id": "4HQU",
+    "title": "Crystal structure of human PDGF-BB in complex with a modified nucleotide aptamer (SOMAmer SL5)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.2,
+    "deposit_date": "2012-10-26T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4HQU"
+  },
+  "4HQX": {
+    "pdb_id": "4HQX",
+    "title": "CRYSTAL STRUCTURE OF HUMAN PDGF-BB IN COMPLEX WITH A Modified nucleotide aptamer (SOMAmer SL4)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.3,
+    "deposit_date": "2012-10-26T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4HQX"
+  },
+  "5CMX": {
+    "pdb_id": "5CMX",
+    "title": "X-ray structure of the complex between human alpha thrombin and a duplex/quadruplex 31-mer DNA aptamer",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.98,
+    "deposit_date": "2015-07-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5CMX"
+  },
+  "7LRI": {
+    "pdb_id": "7LRI",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with DNA, dTTP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.05,
+    "deposit_date": "2021-02-16T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7LRI"
+  },
+  "7LRM": {
+    "pdb_id": "7LRM",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with DNA, dCTP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.14,
+    "deposit_date": "2021-02-16T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7LRM"
+  },
+  "7LRX": {
+    "pdb_id": "7LRX",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with DNA, L-dCTP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.9,
+    "deposit_date": "2021-02-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7LRX"
+  },
+  "7LRY": {
+    "pdb_id": "7LRY",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with DNA, (-)FTC-TP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.45,
+    "deposit_date": "2021-02-17T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7LRY"
+  },
+  "7LSK": {
+    "pdb_id": "7LSK",
+    "title": "Structure of HIV-1 Reverse Transcriptase in complex with DNA, L-dTTP, and CA(2+) ion",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.7,
+    "deposit_date": "2021-02-18T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7LSK"
+  },
+  "5DO4": {
+    "pdb_id": "5DO4",
+    "title": "Thrombin-RNA aptamer complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 1.859,
+    "deposit_date": "2015-09-10T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/5DO4"
+  },
+  "7ZKL": {
+    "pdb_id": "7ZKL",
+    "title": "X-ray structure of the complex between human alpha thrombin and a pseudo-cyclic thrombin binding aptamer (TBA-NNp/DDp) - Crystal form alpha",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.18,
+    "deposit_date": "2022-04-13T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZKL"
+  },
+  "7ZKM": {
+    "pdb_id": "7ZKM",
+    "title": "X-ray structure of the complex between human alpha thrombin and a pseudo-cyclic thrombin binding aptamer (TBA-NNp/DDp) - Crystal form beta",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.0,
+    "deposit_date": "2022-04-13T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZKM"
+  },
+  "7ZKN": {
+    "pdb_id": "7ZKN",
+    "title": "X-ray structure of the complex between human alpha thrombin and a pseudo-cyclic thrombin binding aptamer (TBA-NNp/DDp) - Crystal form gamma",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.03,
+    "deposit_date": "2022-04-13T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZKN"
+  },
+  "7ZKO": {
+    "pdb_id": "7ZKO",
+    "title": "X-ray structure of the complex between human alpha thrombin and a pseudo-cyclic thrombin binding aptamer (TBA-NNp/DDp) - Crystal form delta",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.5,
+    "deposit_date": "2022-04-13T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/7ZKO"
+  },
+  "8TQS": {
+    "pdb_id": "8TQS",
+    "title": "Complex of human thrombin (S195A) bound to a bivalent inhibitor comprised of DNA Aptamer HD22 conjugated to Dabigatran with a linker.",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.207,
+    "deposit_date": "2023-08-08T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/8TQS"
+  },
+  "1HAO": {
+    "pdb_id": "1HAO",
+    "title": "COMPLEX OF HUMAN ALPHA-THROMBIN WITH A 15MER OLIGONUCLEOTIDE GGTTGGTGTGGTTGG (BASED ON NMR MODEL OF DNA)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "1995-10-03T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/1HAO"
+  },
+  "1HAP": {
+    "pdb_id": "1HAP",
+    "title": "COMPLEX OF HUMAN ALPHA-THROMBIN WITH A 15MER OLIGONUCLEOTIDE GGTTGGTGTGGTTGG (BASED ON X-RAY MODEL OF DNA)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.8,
+    "deposit_date": "1995-10-03T00:00:00.000+00:00",
+    "polymer_count": 3,
+    "viewer_url": "https://www.rcsb.org/3d-view/1HAP"
+  },
+  "8G8Z": {
+    "pdb_id": "8G8Z",
+    "title": "Cryo-EM structure of 3DVA component 1 of Escherichia coli que-PEC (paused elongation complex) RNA Polymerase plus preQ1 ligand",
+    "method": "ELECTRON MICROSCOPY",
+    "resolution": 4.3,
+    "deposit_date": "2023-02-20T00:00:00.000+00:00",
+    "polymer_count": 7,
+    "viewer_url": "https://www.rcsb.org/3d-view/8G8Z"
+  },
+  "4NI7": {
+    "pdb_id": "4NI7",
+    "title": "Crystal structure of human interleukin 6 in complex with a modified nucleotide aptamer (SOMAMER SL1025)",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.4,
+    "deposit_date": "2013-11-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4NI7"
+  },
+  "4NI9": {
+    "pdb_id": "4NI9",
+    "title": "Crystal structure of human interleukin 6 in complex with a modified nucleotide aptamer (SOMAMER SL1025), FORM 2",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 2.55,
+    "deposit_date": "2013-11-05T00:00:00.000+00:00",
+    "polymer_count": 2,
+    "viewer_url": "https://www.rcsb.org/3d-view/4NI9"
+  },
+  "2B63": {
+    "pdb_id": "2B63",
+    "title": "Complete RNA Polymerase II-RNA inhibitor complex",
+    "method": "X-RAY DIFFRACTION",
+    "resolution": 3.8,
+    "deposit_date": "2005-09-30T00:00:00.000+00:00",
+    "polymer_count": 13,
+    "viewer_url": "https://www.rcsb.org/3d-view/2B63"
+  }
+}

@@ -1,20 +1,26 @@
 {
-  "total_records": 13306,
-  "records_with_kd": 5801,
-  "records_with_structure": 13305,
-  "unique_targets": 2192,
-  "dna_count": 11134,
-  "rna_count": 2172,
+  "total_records": 16629,
+  "records_with_kd": 7578,
+  "records_with_structure": 16628,
+  "unique_targets": 3089,
+  "dna_count": 13633,
+  "rna_count": 2996,
   "kd_range": [
     0.001,
     100000000.0
   ],
-  "median_length": 41.0,
-  "median_gc": 0.5405,
+  "median_length": 47,
+  "median_gc": 0.5385,
   "source_counts": {
     "aptanexus": 11944,
     "both": 152,
-    "aptadb": 1210
+    "aptadb": 1210,
+    "utexas": 947,
+    "ribocentre": 145,
+    "aptcancerdb": 696,
+    "aptbacterialdb": 1175,
+    "aptagen": 342,
+    "rnaapt3d": 18
   },
   "quality_tier_counts": {
     "P": 1344,

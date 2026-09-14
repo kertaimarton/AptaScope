@@ -1,0 +1,2003 @@
+[
+  {
+    "monad_id": "monad0015",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CAGGCUACGCGUAGAGCAUCAUGAUCCUG",
+    "length": 29,
+    "target": "PDGF-B (P01127)",
+    "uniprot_id": "P01127",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "....(((....)))...............",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((....)))...........))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((....)))....(....).))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((....)))...((....))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "((((.....................))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "((((....((.....))........))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": "((((.(.(((.....))(...))).))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0015/monad0015-7.svg"
+      }
+    ],
+    "mfe_structure": "....(((....)))...............",
+    "disease": "subfoveal neovascular age-related macular degeneration"
+  },
+  {
+    "monad_id": "monad0024",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CGGAAUCAGUGAAUGCUUAUACAUCCG",
+    "length": 27,
+    "target": "VEGF (P15692)",
+    "uniprot_id": "P15692",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((...................))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((...(((....)))......))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((((.(((....))).))...))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((....(......).......))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "((((....((((....))))...))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0024/monad0024-5.svg"
+      }
+    ],
+    "mfe_structure": "((((...................))))",
+    "disease": "Wet Macular Degeneration"
+  },
+  {
+    "monad_id": "monad0036",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CGCCGCGGUCUCAGGCGCUGAGUCUGAGUUUACCUGCG",
+    "length": 38,
+    "target": "C5 (P01031)",
+    "uniprot_id": "P01031",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".........(((((((.....)))))))..........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "...(((((((((((((.....)))))))...))).)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".......(.(((((((.....)))))))....).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0036/monad0036-3.svg"
+      }
+    ],
+    "mfe_structure": ".........(((((((.....)))))))..........",
+    "disease": "Age-Related Macular Degeneration"
+  },
+  {
+    "monad_id": "monad0045",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGUCCUGCUGCGUAGUUUCCGUCUGCGUGGCUGUUACCC",
+    "length": 40,
+    "target": "NGF (P01138)",
+    "uniprot_id": "P01138",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((.(.(((((((((.......))))))))).)..))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((.(.((((((((((....).))))))))).)..))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((...(((((((((.......)))))))))....))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".((....(((((((((.......))))))))).....)).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((....(((((((((.......))))))))).....)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0045/monad0045-5.svg"
+      }
+    ],
+    "mfe_structure": "((((.(.(((((((((.......))))))))).)..))))",
+    "disease": "Pain"
+  },
+  {
+    "monad_id": "monad0049",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "AAUGAGUGGUUUAUUCGUU",
+    "length": 19,
+    "target": "Midkine (P21741)",
+    "uniprot_id": "P21741",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".((((((.....)))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((.....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((((((...))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".(((((((...))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0049/monad0049-4.svg"
+      }
+    ],
+    "mfe_structure": ".((((((.....)))))).",
+    "disease": "Osteosclerosis"
+  },
+  {
+    "monad_id": "monad0052",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCGUAGGAUGCUUCGGCAGAAGGACACGCC",
+    "length": 31,
+    "target": "Flavin mononucleotide",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((.(..(.((((....)))).)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((.(....((((....))))..))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((....(((....))).......)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0052/monad0052-3.svg"
+      }
+    ],
+    "mfe_structure": "(((((.(..(.((((....)))).)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0055",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGAAGGGAAGAAACUGCGGCUUCGGCCGGCUUCCC",
+    "length": 36,
+    "target": "ATP",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((...........((((....)))).))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".....((((((......((((....)))).))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".....((((((...(..((((....)))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0055/monad0055-3.svg"
+      }
+    ],
+    "mfe_structure": "(((((...........((((....)))).))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0056",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC",
+    "length": 35,
+    "target": "HIV-1 Rev peptide",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((..(((((((....))))..)))...)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".((((..((.((((....))))...))...)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((((.....((((....))))........)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((.....((((....))))........)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((......((......)).........)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0056/monad0056-5.svg"
+      }
+    ],
+    "mfe_structure": "(((((..(((((((....))))..)))...)))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0057",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGACUGGGCGAGAAGUUUAGUCC",
+    "length": 23,
+    "target": "Neomycin B",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((((.....)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".((((((((.....)))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((((.(((.....))).)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".(((...............))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0057/monad0057-4.svg"
+      }
+    ],
+    "mfe_structure": "(((((((((.....)))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0058",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGCGCCGGUACGCAAGUACGACGGUACGCUCC",
+    "length": 33,
+    "target": "HTLV-1 Rex peptide",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((((((((....))))..)))..))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".(((.(((((((....))))..)))...)))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "..((.(((((((....))))..)))...))...",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "...(.((.((((....))))...))...)....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "......(...((....)).....).........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "((((.(((((((....))))..)))...)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": "..((.((.((((....))))...))...))...",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-7.svg"
+      },
+      {
+        "branch": 8,
+        "dot_bracket": ".....(((.(((....)))...)))........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-8.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0058/monad0058-8.svg"
+      }
+    ],
+    "mfe_structure": "((((((((((((....))))..)))..))))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0059",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGAGCUUGAUCCCGGAAACGGUCGAUCGCUCCC",
+    "length": 34,
+    "target": "HIV-1 Tat protein (Q76PP9)",
+    "uniprot_id": "Q76PP9",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((..(((((((....)))..))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".(((((......(((....)))......))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((((........((....))........)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((((......(((....)))......))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "((((((...((((((....)))..))).))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "((((((......................))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0059/monad0059-6.svg"
+      }
+    ],
+    "mfe_structure": "((((((..(((((((....)))..))))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0060",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CGAAACAUAGAUUCGA",
+    "length": 16,
+    "target": "eIF-4A (P60842)",
+    "uniprot_id": "P60842",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((.......)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((.(...).)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".(((.......)))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((.........))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0060/monad0060-4.svg"
+      }
+    ],
+    "mfe_structure": "((((.......)))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0061",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAGAUCGCACUCCA",
+    "length": 15,
+    "target": "eIF-4A (P60842)",
+    "uniprot_id": "P60842",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((......)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((.(...))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((........))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0061/monad0061-3.svg"
+      }
+    ],
+    "mfe_structure": "((((......)))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0062",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGACGAAGUGGUUGGGCGCUUCGGCGUGUGAAAACGUCCC",
+    "length": 41,
+    "target": "GTP",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((...(..(((.((((....)))).)))..)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((((((......))))))...((......)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((((......(((.((((....)))).)))...))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((.......(((.((((....)))).)))....)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((((((((......)))))).............)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0062/monad0062-5.svg"
+      }
+    ],
+    "mfe_structure": "((((((...(..(((.((((....)))).)))..)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0063",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCAGCCACAAGAGCACGUAUACGCAAGGCUGUC",
+    "length": 34,
+    "target": "GTP",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((.((........))...(....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((.((..(....)))...(....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((......((........))..)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((......(..((....)))..)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0063/monad0063-4.svg"
+      }
+    ],
+    "mfe_structure": "((((((.((........))...(....)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0064",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAGGAGGAGGA",
+    "length": 12,
+    "target": "Bovine prion (P10279)",
+    "uniprot_id": "P10279",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "............",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0064/monad0064-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0064/monad0064-1.svg"
+      }
+    ],
+    "mfe_structure": "............",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0065",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GAUACUUGAAACUGUAAGGUUGGCGUAUC",
+    "length": 29,
+    "target": "NF-kappaB (P19838)",
+    "uniprot_id": "P19838",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((....((((....))))...)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((..((((....)))))).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((.(..((((....)))).).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".((((......(......).....)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((.....(((....)))....)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "(((((......(......).....)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": ".((((...................)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0065/monad0065-7.svg"
+      }
+    ],
+    "mfe_structure": "(((((....((((....))))...)))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0066",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGAUGCUCAGUGAUCCUUCGGGAUAUCAGGGCAUCCC",
+    "length": 38,
+    "target": "Ribosomal protein S8 (P62241)",
+    "uniprot_id": "P62241",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((((....((((....))))....)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((((...(((((....))))..).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((((..((((((....))))..)))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((((.(..((((....))))..).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((((((.((.((((....))))).).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "(((((((((.....(((....))).....)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": "(((((((((......((....))......)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-7.svg"
+      },
+      {
+        "branch": 8,
+        "dot_bracket": ".((((((((......((....))......)))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-8.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-8.svg"
+      },
+      {
+        "branch": 9,
+        "dot_bracket": "(((((((((....((((....))))....)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-9.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0066/monad0066-9.svg"
+      }
+    ],
+    "mfe_structure": "(((((((((....((((....))))....)))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0067",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "ACAGCACUGAUUGCGGUCGAGGUAGCUUGAUGG",
+    "length": 33,
+    "target": "Ribosomal protein S8 (P62241)",
+    "uniprot_id": "P62241",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".(.(((.....))).((((((....))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "...(((.....))).((((((....))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".(.(((.....))))((((((....))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "...............((((((....))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "...((.......)).((((((....))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0067/monad0067-5.svg"
+      }
+    ],
+    "mfe_structure": ".(.(((.....))).((((((....))))))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0068",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CCAUACGGGAGAGAAACU",
+    "length": 18,
+    "target": "G Protein-coupled Receptor Kinase 2 (P25098)",
+    "uniprot_id": "P25098",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".....(....).......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".(...(....).).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".(.(.(....))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((....))..........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "((....))..(.....).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "((....)).((.....))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": ".(....)...........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-7.svg"
+      },
+      {
+        "branch": 8,
+        "dot_bracket": "((....))(.......).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-8.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0068/monad0068-8.svg"
+      }
+    ],
+    "mfe_structure": ".....(....).......",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0069",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GCACGUCCCUCACCGGUGCAAGUGAAGCCGUGGCUCUGCG",
+    "length": 40,
+    "target": "Chemokine CC2 (P13500)",
+    "uniprot_id": "P13500",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((.(.....((.((((.........))))))...)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0069/monad0069-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0069/monad0069-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".((((....((((........))))...))))........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0069/monad0069-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0069/monad0069-2.svg"
+      }
+    ],
+    "mfe_structure": "(((.(.....((.((((.........))))))...)))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad0072",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GAUCCUGAAACUGUUUUAAGGUUGGCCGAUC",
+    "length": 31,
+    "target": "NF-kappaB (P19838)",
+    "uniprot_id": "P19838",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((....((((.......))))....))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((..((((.......))))))..))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((((..((((.(....)))))))..))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((((..((((.(...).))))))..))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad0072/monad0072-4.svg"
+      }
+    ],
+    "mfe_structure": "((((....((((.......))))....))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1001",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCUUUCGGGCUUUCAACAUCAGCCCCUCAGCC",
+    "length": 33,
+    "target": "PC-3",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((...(((((.........)))))...))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1001/monad1001-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1001/monad1001-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((...(((((.(....)..)))))...))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1001/monad1001-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1001/monad1001-2.svg"
+      }
+    ],
+    "mfe_structure": "((((...(((((.........)))))...))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1002",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGGAGGCUGUGGUUGAGGG",
+    "length": 20,
+    "target": "Cells presenting IL-6R (P08887)",
+    "uniprot_id": "P08887",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".......(....).......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".....(((....))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".......((........)).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".((....)).(.....)...",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1002/monad1002-4.svg"
+      }
+    ],
+    "mfe_structure": ".......(....).......",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1003",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCGAACAGGGGACGAGCAAGACGCC",
+    "length": 26,
+    "target": "Ricin A-chain (RTA) (P02879)",
+    "uniprot_id": "P02879",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((....(........)....))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((..(.(........)..).))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((....(....)........))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((..(.(....)..).....))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1003/monad1003-4.svg"
+      }
+    ],
+    "mfe_structure": "((((....(........)....))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1004",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCAGACCAUACGGGAGAGAAACUUGCC",
+    "length": 28,
+    "target": "G protein-coupled receptor kinase 2  (P25098)",
+    "uniprot_id": "P25098",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((.((....)).........)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((.((....))..(.....))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((......(....)......)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((....(.(....).)....)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((....(.(....))(...))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1004/monad1004-5.svg"
+      }
+    ],
+    "mfe_structure": "(((((.((....)).........)))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1005",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAAGAGAUGGCGACUAAAACGACUUGUCGC",
+    "length": 31,
+    "target": "cAMP",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "..........(((((.(.......).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(.......).(((((.(.......).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(.......).(((((...((....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1005/monad1005-3.svg"
+      }
+    ],
+    "mfe_structure": "..........(((((.(.......).)))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1006",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCACGUGUAUUACCCUAGUGGUCGACGUGCC",
+    "length": 32,
+    "target": "Xanthine",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((..(((((....)))))..)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1006/monad1006-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1006/monad1006-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((((.(((((....)))))).)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1006/monad1006-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1006/monad1006-2.svg"
+      }
+    ],
+    "mfe_structure": "(((((((..(((((....)))))..)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1007",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGUCUUACGUCGUUCGACUAUUGGGAGACC",
+    "length": 30,
+    "target": "L-Isoleucine",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((..(((....)))......))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((.((((....)))....).))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".(((...........)))....((....))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((....(.....)))))...((....))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1007/monad1007-4.svg"
+      }
+    ],
+    "mfe_structure": "((((((..(((....)))......))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1008",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "UUACCACGCGCUCUUAACUGCUAGCGCCAUGGC",
+    "length": 33,
+    "target": "Moloney Murine Leukemia Virus (M-MLV) RT (Q83371)",
+    "uniprot_id": "Q83371",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "...(((.(((((..........)))))..))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "...(((.(((((..(....)..)))))..))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "....(..(((((..........)))))...)..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "...(((.((((((......)..)))))..))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1008/monad1008-4.svg"
+      }
+    ],
+    "mfe_structure": "...(((.(((((..........)))))..))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1009",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGUGAAGGCAACGUAUAGGCAAGCACACUUCACC",
+    "length": 34,
+    "target": "Basic Fibroblast Growth Factor (bFGF)  (P09038)",
+    "uniprot_id": "P09038",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((((...(((....))..))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((....)................))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((....)(..........)....))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((....)((.(....).))....))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((((((...((....))..))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1009/monad1009-5.svg"
+      }
+    ],
+    "mfe_structure": "((((((((...(((....))..))...)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1010",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "AUGAUCAAUCGCCUCAAUUCGACAGGAGGCUCAC",
+    "length": 34,
+    "target": "Axl tyrosine kinase receptor  (P30530)",
+    "uniprot_id": "P30530",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "..........(((((..........)))))....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "..((....).(((((....(....)))))).)..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "..((....))(((((..........)))))....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "..((....))(((((..(.....).)))))....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1010/monad1010-4.svg"
+      }
+    ],
+    "mfe_structure": "..........(((((..........)))))....",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1011",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "UUGCUUGGAAUGCGUUAUAGUCUCUUAGGUGUGUA",
+    "length": 35,
+    "target": "SP6 RNA Polymerase",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "..((((.((..((......)).))..)))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "..(((((((..((......)).)).))))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "..((((....................)))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "..((((.....((......)).....)))).....",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1011/monad1011-4.svg"
+      }
+    ],
+    "mfe_structure": "..((((.((..((......)).))..)))).....",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1012",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CCGGUGCGCAUAACCACCUCAGUGCGAGCAAGGAA",
+    "length": 35,
+    "target": "Cyanocobalamin",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "......(((((..........))))).........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((.((.(((((..........))))).))..))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((.((.(((((.(.....)..))))).))..))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".(((((........)))).............)...",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "((((((........))))...((....))..))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "((((((........))))(..((....)).)))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1012/monad1012-6.svg"
+      }
+    ],
+    "mfe_structure": "......(((((..........))))).........",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1013",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGUGAUACCGCCCAAGAGUUCAUAUCGACGGCGGUGU",
+    "length": 37,
+    "target": "E. Coli 5S RNA",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "....((((((((...((.......))...))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "....((((((((...((.(....)))...))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".......(((((.................)))))...",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1013/monad1013-3.svg"
+      }
+    ],
+    "mfe_structure": "....((((((((...((.......))...))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1014",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "UUCAACGCUGUGAAGGGCUUAUACGAGCGGAUUACCC",
+    "length": 37,
+    "target": "Alpha-V Beta-3 (P06756)",
+    "uniprot_id": "P06756",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((......))))((((((....)))).(....)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".......((....)).((((....))))((....)).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".....(((((((.........))).))))........",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".....(((((((((....)).))).))))(....)..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1014/monad1014-4.svg"
+      }
+    ],
+    "mfe_structure": "((((......))))((((((....)))).(....)))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1015",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "ACGAAGCUUGAUCCCGUUUGCCGGUCGAUCGCUUCGA",
+    "length": 37,
+    "target": "HIV-1 Tat protein (Q76PP9)",
+    "uniprot_id": "Q76PP9",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".((((((..(((((((.....)))..)))))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1015/monad1015-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1015/monad1015-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".((((((.......(.......).......)))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1015/monad1015-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1015/monad1015-2.svg"
+      }
+    ],
+    "mfe_structure": ".((((((..(((((((.....)))..)))))))))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1016",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAUCCCGACUGGCGAGAGCCAGGUAACGAAUGGAUCC",
+    "length": 38,
+    "target": "Malachite Green",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((...(((((....))))).........))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((((.(((((....)))))....))...))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((((((((((((....))))).)..))...))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((..(((((....)))))(...))...))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1016/monad1016-4.svg"
+      }
+    ],
+    "mfe_structure": "((((((...(((((....))))).........))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1017",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "AGUGAUACCAGCAUCGUCUUGAUGCCCUUGGCAGCACU",
+    "length": 38,
+    "target": "Theophylline",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".(((...((.(((((.....)))))....))...))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((...((((((((.....)))))...)))...))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "((((.(.(((((((((...))))))...))).).))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".(((.......(((.......)))..........))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1017/monad1017-4.svg"
+      }
+    ],
+    "mfe_structure": ".(((...((.(((((.....)))))....))...))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1018",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGUUGGGAAGAAACUGUGGCACUUCGGUGCCAUCAACCC",
+    "length": 40,
+    "target": "ATP",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((..........((((((....)))))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1018/monad1018-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1018/monad1018-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((.......).(((((((....)))))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1018/monad1018-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1018/monad1018-2.svg"
+      }
+    ],
+    "mfe_structure": "(((((((..........((((((....)))))))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1019",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCAUCGGAAAGUGGGUUGAUGUAAGUAACAGGCGAUGCC",
+    "length": 40,
+    "target": "L-Histidine",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((....((....((.......))))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((....((....((.(....)))))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((..............((.....))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((((..((.....))..(((.....)))..)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "(((((((....((...............))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "(((((((....((...((.....))...))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-6.svg"
+      },
+      {
+        "branch": 7,
+        "dot_bracket": "(((((((....((.(.(((...))).).))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-7.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1019/monad1019-7.svg"
+      }
+    ],
+    "mfe_structure": "(((((((....((....((.......))))...)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1020",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAGACAUCCCUCUUGUUGGUGGUGCCGUGUGGAUGUCUC",
+    "length": 40,
+    "target": "HIV-1 Nucleocapsid",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": ".(((((((((.....((.......)).....)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".((((((((((.(..((.......)).).).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((((((((((......((((...)))).).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".((((((((((....(.((((...)))))).)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1020/monad1020-4.svg"
+      }
+    ],
+    "mfe_structure": ".(((((((((.....((.......)).....)))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1021",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGAGGUGCUCCGAAAGGAACUCC",
+    "length": 23,
+    "target": "hlgG-Fc",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((....(((....))).))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((.(..(((....))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((......((....))...)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1021/monad1021-3.svg"
+      }
+    ],
+    "mfe_structure": "((((....(((....))).))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1022",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "AGCCGCGAGGGGAGGGAUAGGGUAGGGCGCGGCU",
+    "length": 34,
+    "target": "ErbB2 in Breast Cancer Cells  (P04626)",
+    "uniprot_id": "P04626",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((((((....(..........)....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((((((....((....)....)....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((((...(.(....)....)....)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1022/monad1022-3.svg"
+      }
+    ],
+    "mfe_structure": "(((((((....(..........)....)))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1023",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGGGGCUUAUCAUUCCAUUUAGUGUUAUGAUAACC",
+    "length": 35,
+    "target": "Interleukin-8 (CXCL-8) (P10145)",
+    "uniprot_id": "P10145",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "...((.(((((((..((.....))..)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "...((.(((((((..(((...)))..)))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "......(((((((..(.......)..)))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1023/monad1023-3.svg"
+      }
+    ],
+    "mfe_structure": "...((.(((((((..((.....))..)))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1024",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CGAUGCGGUCUCAUGCGUCGAGUGUGAGUUUACCUUCG",
+    "length": 38,
+    "target": "Human complement C5 component (C5a)  (P01031)",
+    "uniprot_id": "P01031",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "(((......(((((((.....))))))).......)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((...((((((((((.....)))))))...))).)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((.(.((((((((((.....)))))))...)))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1024/monad1024-3.svg"
+      }
+    ],
+    "mfe_structure": "(((......(((((((.....))))))).......)))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1025",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GCCUUAGUAACGUGCUUUGAUGUCGAUUCGACAGGAGGC",
+    "length": 39,
+    "target": "EGFR - Extracellular Domain  (P00533)",
+    "uniprot_id": "P00533",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((.............(..(((((...))))).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((((.....))).(..(((((...)))))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(((((.(.......)......((((...))))..)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": ".............(((((..(((((...))))).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-4.svg"
+      },
+      {
+        "branch": 5,
+        "dot_bracket": "........(...)(((((..(((((...))))).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-5.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-5.svg"
+      },
+      {
+        "branch": 6,
+        "dot_bracket": "(((..((((...))))((..(((((...))))).)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-6.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1025/monad1025-6.svg"
+      }
+    ],
+    "mfe_structure": "((((.............(..(((((...))))).)))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1026",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "CGGCCACAGAAUGAAAAACCUCAUCGAUGUUGCAUAGUUG",
+    "length": 40,
+    "target": "Human Osteopontin  (P10451)",
+    "uniprot_id": "P10451",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "..((.(((..((((......))))...))).)).......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "..((.((((.((((......)))))..))).)).......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "..((.(((..((....)......)...))).)).......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "((((.((((.((((......)))))..))).)).....))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1026/monad1026-4.svg"
+      }
+    ],
+    "mfe_structure": "..((.(((..((((......))))...))).)).......",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1027",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGCAGGUUUGGUAUUAACACGUUAAGUCGUGG",
+    "length": 32,
+    "target": "Interleukin 6 (IL-6) (P05231)",
+    "uniprot_id": "P05231",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "......((.......))((((......)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": ".(((....).)).....((((......)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "(.((....)).).....((((......)))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1027/monad1027-3.svg"
+      }
+    ],
+    "mfe_structure": "......((.......))((((......)))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1029",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "ACCCUGAUGGUAGACGCCGGGGUG",
+    "length": 24,
+    "target": "Vascular Permeability Factor(VPF) (P15692)",
+    "uniprot_id": "P15692",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((.((.....)).)))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1029/monad1029-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1029/monad1029-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((...((....)))))))).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1029/monad1029-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1029/monad1029-2.svg"
+      }
+    ],
+    "mfe_structure": "((((((.((.....)).)))))).",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1030",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "UGCCCUGCCCUCACCCGUUAGCCUGAGCGCCCCGCA",
+    "length": 36,
+    "target": "Human matrix metalloprotease 9 (hMMP-9)  (P14780)",
+    "uniprot_id": "P14780",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "......((.((((..........)))).))......",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "(((...((.((((..(....)..)))).))...)))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".((...((.((((..........)))).))...)).",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1030/monad1030-3.svg"
+      }
+    ],
+    "mfe_structure": "......((.((((..........)))).))......",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1031",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GCGACUGGUUACCCGGUCGU",
+    "length": 20,
+    "target": "Cancer stem cell marker epithelial cell adhesion molecule (P16422)",
+    "uniprot_id": "P16422",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((((....))))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1031/monad1031-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1031/monad1031-1.svg"
+      }
+    ],
+    "mfe_structure": "((((((((....))))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1033",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "GGUCUUACGUCGUUCGCGACUAUUGGGAGACC",
+    "length": 32,
+    "target": "L-Isoleucine",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "((((((..((((....))))......))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "((((((.(((((....))))....).))))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": "........((((....))))....((....))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-3.svg"
+      },
+      {
+        "branch": 4,
+        "dot_bracket": "(((((....((......))........)))))",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-4.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1033/monad1033-4.svg"
+      }
+    ],
+    "mfe_structure": "((((((..((((....))))......))))))",
+    "disease": "Product Name"
+  },
+  {
+    "monad_id": "monad1035",
+    "source": "rnaapt3d",
+    "aptamer_type": "RNA",
+    "sequence": "UAUGGUAUGCUGUGUGGUAUGGGGUGGCGUGCUCU",
+    "length": 35,
+    "target": "luteinizing hormone (P01215)",
+    "uniprot_id": "P01215",
+    "structures": [
+      {
+        "branch": 1,
+        "dot_bracket": "...((((((((((..........))))))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-1.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-1.svg"
+      },
+      {
+        "branch": 2,
+        "dot_bracket": "...((((((((((.(......).))))))))))..",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-2.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-2.svg"
+      },
+      {
+        "branch": 3,
+        "dot_bracket": ".(.((((((((((.((...).).)))))))))).)",
+        "pdb_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-3.rascal.pdb",
+        "svg_url": "https://rnaapt3d.medals.jp/static/monad1035/monad1035-3.svg"
+      }
+    ],
+    "mfe_structure": "...((((((((((..........))))))))))..",
+    "disease": "Product Name"
+  }
+]
