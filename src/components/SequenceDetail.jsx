@@ -44,6 +44,23 @@ export default function SequenceDetail({ record }) {
         </div>
       </div>
 
+      {(record.cancer_type || record.bacterial_species) && (
+        <div className="flex gap-6 text-sm">
+          {record.cancer_type && (
+            <div>
+              <div className="text-xs uppercase tracking-wider text-textsecondary">Cancer Type</div>
+              <div>{record.cancer_type}</div>
+            </div>
+          )}
+          {record.bacterial_species && (
+            <div>
+              <div className="text-xs uppercase tracking-wider text-textsecondary">Bacterial Species</div>
+              <div>{record.bacterial_species}</div>
+            </div>
+          )}
+        </div>
+      )}
+
       {record.doi && (
         <a
           href={`https://doi.org/${record.doi}`}

@@ -3,6 +3,7 @@ import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import SequenceDetail from "./SequenceDetail.jsx";
 import PageHeading from "./PageHeading.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
+import pdbEnrichment from "../data/pdb_enrichment.json";
 
 const TARGET_TYPE_OPTIONS = ["All", "Protein", "Small Molecule", "Cell", "Nucleic Acid", "Microorganism", "Other"];
 
@@ -21,6 +22,7 @@ export default function Explorer({ data }) {
   const [search, setSearch] = useState("");
   const [typeFilter, setTypeFilter] = useState("All");
   const [targetTypeFilter, setTargetTypeFilter] = useState("All");
+  const [has3dOnly, setHas3dOnly] = useState(false);
   const [kdLogRange, setKdLogRange] = useState([KD_LOG_MIN, KD_LOG_MAX]);
   const [lengthRange, setLengthRange] = useState([LENGTH_MIN, LENGTH_MAX]);
   const [sortKey, setSortKey] = useState("kd_nM");
@@ -31,11 +33,27 @@ export default function Explorer({ data }) {
   const kdMin = 10 ** kdLogRange[0];
   const kdMax = 10 ** kdLogRange[1];
 
+  // Target names known to have a solved 3D structure — approximated by
+  // substring-matching each distinct target name against RCSB PDB entry
+  // titles, since none of the source databases carry a per-record PDB ID.
+  const structureTargets = useMemo(() => {
+    const titles = Object.values(pdbEnrichment).map((p) => p.title.toLowerCase());
+    const set = new Set();
+    for (const name of new Set(data.map((r) => r.target_name))) {
+      const lower = name.toLowerCase();
+      if (lower.length >= 4 && titles.some((t) => t.includes(lower))) {
+        set.add(name);
+      }
+    }
+    return set;
+  }, [data]);
+
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     let rows = data.filter((r) => {
       if (typeFilter !== "All" && r.aptamer_type !== typeFilter) return false;
       if (targetTypeFilter !== "All" && r.target_type !== targetTypeFilter) return false;
+      if (has3dOnly && !structureTargets.has(r.target_name)) return false;
       if (r.length < lengthRange[0] || r.length > lengthRange[1]) return false;
       if (r.kd_nM !== null && (r.kd_nM < kdMin || r.kd_nM > kdMax)) return false;
       if (q) {
@@ -57,7 +75,7 @@ export default function Explorer({ data }) {
     });
 
     return rows;
-  }, [data, search, typeFilter, targetTypeFilter, kdLogRange, lengthRange, sortKey, sortDir]);
+  }, [data, search, typeFilter, targetTypeFilter, has3dOnly, structureTargets, kdLogRange, lengthRange, sortKey, sortDir]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const pageRows = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
@@ -136,6 +154,20 @@ export default function Explorer({ data }) {
               </option>
             ))}
           </select>
+        </div>
+
+        <div>
+          <label className="block text-xs uppercase tracking-wider text-textsecondary mb-1">Structure</label>
+          <button
+            onClick={() => resetPage(setHas3dOnly)(!has3dOnly)}
+            className={`w-full text-sm px-2 py-1.5 rounded-full border ${
+              has3dOnly
+                ? "border-accent text-accent"
+                : "border-border text-textsecondary hover:text-textprimary"
+            }`}
+          >
+            Has 3D Structure
+          </button>
         </div>
 
         <div className="lg:col-span-2">

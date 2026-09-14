@@ -15,6 +15,8 @@ import ProteinStructureViewer from "./ProteinStructureViewer.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 import { quantile } from "../utils/stats.js";
 import { resolveUniProtId } from "../utils/alphafold.js";
+import uniprotEnrichment from "../data/uniprot_enrichment.json";
+import chemblEnrichment from "../data/chembl_enrichment.json";
 
 const PAGE_SIZE = 50;
 
@@ -120,6 +122,8 @@ export default function TargetLookup({ data }) {
   }, [records]);
 
   const uniprotId = useMemo(() => resolveUniProtId(records), [records]);
+  const uniprotInfo = uniprotId ? uniprotEnrichment[uniprotId] : null;
+  const chemblInfo = selected ? chemblEnrichment[selected] || null : null;
 
   return (
     <div className="space-y-4">
@@ -204,6 +208,58 @@ export default function TargetLookup({ data }) {
                 predict (it doesn't model DNA/RNA).
               </p>
               <ProteinStructureViewer uniprotId={uniprotId} targetName={selected} />
+
+              {uniprotInfo && (
+                <div className="mt-4 pt-4 border-t border-border grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+                  <div>
+                    <div className="text-xs uppercase tracking-wider text-textsecondary mb-0.5">Function</div>
+                    <div className="text-textprimary text-[13px] leading-relaxed max-h-32 overflow-y-auto">
+                      {uniprotInfo.function}
+                    </div>
+                  </div>
+                  <div className="space-y-2">
+                    <div>
+                      <div className="text-xs uppercase tracking-wider text-textsecondary mb-0.5">Organism</div>
+                      <div>{uniprotInfo.organism}</div>
+                    </div>
+                    {uniprotInfo.diseases?.length > 0 && (
+                      <div>
+                        <div className="text-xs uppercase tracking-wider text-textsecondary mb-0.5">
+                          Associated Diseases
+                        </div>
+                        <div>{uniprotInfo.diseases.join(", ")}</div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
+
+          {chemblInfo && (
+            <div className="bg-surface border border-border rounded-md p-4">
+              <h2 className="text-xs uppercase tracking-wider font-semibold mb-1">
+                Known Drugs for This Target (ChEMBL)
+              </h2>
+              <p className="text-[13px] text-textsecondary mb-3">
+                {chemblInfo.target_type} · {chemblInfo.organism}
+              </p>
+              {chemblInfo.drugs?.length > 0 ? (
+                <ul className="text-sm space-y-1.5">
+                  {chemblInfo.drugs.slice(0, 8).map((d, i) => (
+                    <li key={i} className="flex items-baseline justify-between gap-3">
+                      <span className="font-mono text-textprimary">{d.drug_name}</span>
+                      <span className="text-textsecondary text-[13px] text-right">
+                        {d.mechanism || d.action_type}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="text-[13px] text-textsecondary">
+                  No approved/investigational drugs recorded against this target in ChEMBL.
+                </p>
+              )}
             </div>
           )}
 

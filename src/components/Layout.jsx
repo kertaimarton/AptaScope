@@ -93,6 +93,28 @@ function AboutModal({ onClose }) {
         <div className="text-sm space-y-1.5">
           <p className="text-xs uppercase tracking-wider text-textsecondary">Data sources</p>
           <ul className="text-textsecondary space-y-1 list-disc list-inside">
+            <li>AptaNexus</li>
+            <li>AptaDB</li>
+            <li>
+              <a
+                href="https://webs.iiitd.edu.in/raghava/aptbacterialdb/"
+                target="_blank"
+                rel="noreferrer"
+                className="text-accent hover:underline"
+              >
+                AptBacterialDB
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://webs.iiitd.edu.in/raghava/aptcancerdb/"
+                target="_blank"
+                rel="noreferrer"
+                className="text-accent hover:underline"
+              >
+                AptCancerDB
+              </a>
+            </li>
             <li>
               <a
                 href="https://zenodo.org/records/8264921"
@@ -114,6 +136,8 @@ function AboutModal({ onClose }) {
                 Ribocentre Aptamer
               </a>
             </li>
+            <li>Aptagen</li>
+            <li>RNAapt3D</li>
           </ul>
         </div>
 
