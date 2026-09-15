@@ -3,7 +3,7 @@ import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import SequenceDetail from "./SequenceDetail.jsx";
 import PageHeading from "./PageHeading.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
-import pdbEnrichment from "../data/pdb_enrichment.json";
+import { findPdbStructures } from "../utils/pdb.js";
 
 const TARGET_TYPE_OPTIONS = ["All", "Protein", "Small Molecule", "Cell", "Nucleic Acid", "Microorganism", "Other"];
 
@@ -33,17 +33,13 @@ export default function Explorer({ data }) {
   const kdMin = 10 ** kdLogRange[0];
   const kdMax = 10 ** kdLogRange[1];
 
-  // Target names known to have a solved 3D structure — approximated by
-  // substring-matching each distinct target name against RCSB PDB entry
-  // titles, since none of the source databases carry a per-record PDB ID.
+  // Target names known to have a solved 3D structure — same matching logic
+  // SequenceDetail uses to decide whether to show the actual PDB viewer, so
+  // this filter and what you can view for a row never disagree.
   const structureTargets = useMemo(() => {
-    const titles = Object.values(pdbEnrichment).map((p) => p.title.toLowerCase());
     const set = new Set();
     for (const name of new Set(data.map((r) => r.target_name))) {
-      const lower = name.toLowerCase();
-      if (lower.length >= 4 && titles.some((t) => t.includes(lower))) {
-        set.add(name);
-      }
+      if (findPdbStructures(name).length > 0) set.add(name);
     }
     return set;
   }, [data]);

@@ -1,6 +1,9 @@
+import { useMemo } from "react";
 import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import StructureViewer from "./StructureViewer.jsx";
+import PdbStructurePanel from "./PdbStructurePanel.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
+import { findPdbStructures } from "../utils/pdb.js";
 
 const FEATURE_ROWS = [
   ["GC Content", (r) => `${(r.gc_content * 100).toFixed(1)}%`],
@@ -19,6 +22,8 @@ const FEATURE_ROWS = [
 ];
 
 export default function SequenceDetail({ record }) {
+  const pdbMatches = useMemo(() => findPdbStructures(record.target_name), [record.target_name]);
+
   return (
     <div className="bg-bg border border-border rounded-md p-4 space-y-4">
       <div className="flex items-start justify-between gap-4">
@@ -70,6 +75,15 @@ export default function SequenceDetail({ record }) {
         >
           View publication (DOI: {record.doi}) ↗
         </a>
+      )}
+
+      {pdbMatches.length > 0 && (
+        <div className="border-t border-border pt-4">
+          <div className="text-xs uppercase tracking-wider text-textsecondary mb-2">
+            Solved 3D Structure (RCSB PDB)
+          </div>
+          <PdbStructurePanel matches={pdbMatches} />
+        </div>
       )}
 
       {record.mfe_structure && (

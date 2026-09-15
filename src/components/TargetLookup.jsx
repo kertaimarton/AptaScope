@@ -12,9 +12,11 @@ import ColoredSequence, { CopyButton } from "./ColoredSequence.jsx";
 import PageHeading from "./PageHeading.jsx";
 import StructureViewer from "./StructureViewer.jsx";
 import ProteinStructureViewer from "./ProteinStructureViewer.jsx";
+import PdbStructurePanel from "./PdbStructurePanel.jsx";
 import { formatKd, kdColorClass } from "../utils/sequence.js";
 import { quantile } from "../utils/stats.js";
 import { resolveUniProtId } from "../utils/alphafold.js";
+import { findPdbStructures } from "../utils/pdb.js";
 import uniprotEnrichment from "../data/uniprot_enrichment.json";
 import chemblEnrichment from "../data/chembl_enrichment.json";
 
@@ -124,6 +126,7 @@ export default function TargetLookup({ data }) {
   const uniprotId = useMemo(() => resolveUniProtId(records), [records]);
   const uniprotInfo = uniprotId ? uniprotEnrichment[uniprotId] : null;
   const chemblInfo = selected ? chemblEnrichment[selected] || null : null;
+  const pdbMatches = useMemo(() => findPdbStructures(selected), [selected]);
 
   return (
     <div className="space-y-4">
@@ -196,6 +199,20 @@ export default function TargetLookup({ data }) {
               </div>
             </div>
           </div>
+
+          {pdbMatches.length > 0 && (
+            <div className="bg-surface border border-border rounded-md p-4">
+              <h2 className="text-xs uppercase tracking-wider font-semibold mb-3">
+                Solved 3D Structure (RCSB PDB)
+              </h2>
+              <p className="text-[13px] text-textsecondary mb-3">
+                An experimentally-determined structure matched to {selected} by name —
+                unlike the AlphaFold prediction below, this can show the aptamer's own
+                fold, not just its target's.
+              </p>
+              <PdbStructurePanel matches={pdbMatches} />
+            </div>
+          )}
 
           {uniprotId && (
             <div className="bg-surface border border-border rounded-md p-4">
